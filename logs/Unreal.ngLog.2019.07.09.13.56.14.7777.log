@@ -1,0 +1,1823 @@
+0.00	info	Log_Standard	UTStats
+0.00	info	Log_Version	0.4.2
+0.00	info	Game_Name	Unreal
+0.00	info	Game_Version	436
+0.00	info	Absolute_Time	2019.07.09.13.56.14.522.-4.0
+0.00	info	utglenabled	False
+0.00	game	insta	False
+0.00	info	True_Server_IP	10.0.75.1
+0.00	info	Server_ServerName	Another UT Server
+0.00	info	Server_AdminName	
+0.00	info	Server_AdminEmail	
+0.00	info	Server_Region	0
+0.00	info	Server_MOTDLine1	
+0.00	info	Server_MOTDLine2	
+0.00	info	Server_MOTDLine3	
+0.00	info	Server_MOTDLine4	
+0.00	info	Server_IP	0.0.0.0
+0.00	info	Server_Port	7777
+0.00	map	Name	DM-turbine.unr
+0.00	map	Title	Turbine
+0.00	map	Author	Cliff Bleszinski
+0.00	map	IdealPlayerCount	4-8
+0.00	map	LevelEnterText	
+0.00	game	GameName	Tournament DeathMatch
+0.00	game	GameClass	Botpack.DeathMatchPlus
+0.00	game	GameVersion	436
+0.00	game	MinNetVersion	400
+0.00	game	NoMonsters	True
+0.00	game	MuteSpectators	False
+0.00	game	HumansOnly	False
+0.00	game	WeaponsStay	True
+0.00	game	ClassicDeathmessages	False
+0.00	game	LowGore	False
+0.00	game	VeryLowGore	False
+0.00	game	TeamGame	False
+0.00	game	GameSpeed	100
+0.00	game	MaxSpectators	2
+0.00	game	MaxPlayers	16
+0.00	game	FragLimit	30
+0.00	game	TimeLimit	0
+0.00	game	MultiPlayerBots	True
+0.00	game	HardCore	True
+0.00	game	MegaSpeed	False
+0.00	game	AirControl	0.350000
+0.00	game	JumpMatch	False
+0.00	game	UseTranslocator	False
+0.00	game	TournamentMode	False
+0.00	game	NetMode	DedicatedServer
+0.94	player	Rename	John	0
+0.94	player	Teamchange	0	255
+0.94	player	Connect	John	0	False
+0.94	player	TeamName	0	
+0.94	player	Team	0	255
+0.94	player	TeamID	0	0
+0.94	player	Ping	0	0
+0.94	player	IsABot	0	False
+0.94	player	Skill	0	1.000000
+1.01	player	IP	0	10.0.75.1
+12.09	player	Rename	Ichthys	1
+12.09	player	Connect	Ichthys	1	False
+12.09	player	TeamName	1	
+12.09	player	Team	1	255
+12.09	player	TeamID	1	0
+12.09	player	Ping	1	0
+12.09	player	IsABot	1	True
+12.09	player	Skill	1	1.000000
+12.15	player	IP	1	0.0.0.0
+13.19	player	Rename	Tamara	2
+13.19	player	Connect	Tamara	2	False
+13.19	player	TeamName	2	
+13.19	player	Team	2	3
+13.19	player	TeamID	2	0
+13.19	player	Ping	2	0
+13.19	player	IsABot	2	True
+13.19	player	Skill	2	1.000000
+13.25	player	IP	2	0.0.0.0
+14.25	player	Rename	Dessloch	3
+14.25	player	Connect	Dessloch	3	False
+14.25	player	TeamName	3	
+14.25	player	Team	3	1
+14.25	player	TeamID	3	0
+14.25	player	Ping	3	0
+14.25	player	IsABot	3	True
+14.25	player	Skill	3	1.000000
+14.30	player	IP	3	0.0.0.0
+15.35	player	Rename	Zenith	4
+15.35	player	Connect	Zenith	4	False
+15.35	player	TeamName	4	
+15.35	player	Team	4	1
+15.35	player	TeamID	4	0
+15.35	player	Ping	4	0
+15.35	player	IsABot	4	True
+15.35	player	Skill	4	1.000000
+15.35	player	Rename	Barak	5
+15.35	player	Connect	Barak	5	False
+15.35	player	TeamName	5	
+15.35	player	Team	5	255
+15.35	player	TeamID	5	0
+15.35	player	Ping	5	0
+15.35	player	IsABot	5	True
+15.35	player	Skill	5	1.000000
+15.35	player	Rename	Loque	6
+15.35	player	Connect	Loque	6	False
+15.35	player	TeamName	6	
+15.35	player	Team	6	255
+15.35	player	TeamID	6	0
+15.35	player	Ping	6	0
+15.35	player	IsABot	6	True
+15.35	player	Skill	6	1.000000
+15.35	player	Rename	Sarena	7
+15.35	player	Connect	Sarena	7	False
+15.35	player	TeamName	7	
+15.35	player	Team	7	1
+15.35	player	TeamID	7	0
+15.35	player	Ping	7	0
+15.35	player	IsABot	7	True
+15.35	player	Skill	7	1.000000
+15.35	game_start
+15.40	player	IP	4	0.0.0.0
+15.48	player	IP	5	0.0.0.0
+15.53	player	IP	6	0.0.0.0
+15.59	player	IP	7	0.0.0.0
+16.79	game	realstart
+16.79	item_get	Minigun	3
+18.12	item_get	Large Bullets	3
+18.46	item_get	Large Bullets	3
+20.29	kill	1	Impact Hammer	2	Impact Hammer	impact
+20.29	first_blood	1
+20.68	item_get	Body Armor	3
+20.96	item_get	RocketPack	3
+23.50	item_get	Shock Core	6
+23.62	item_get	Shock Core	6
+23.78	item_get	Biosludge Ammo	1
+23.95	item_get	Biosludge Ammo	1
+24.28	item_get	Flak Cannon	4
+24.39	item_get	Flak Shells	3
+24.56	item_get	Minigun	7
+25.00	item_get	RocketPack	3
+25.84	item_get	Shock Core	1
+26.00	item_get	Flak Shells	1
+28.11	kill	7	Minigun	5	Enforcer	shot
+28.39	item_get	Shock Rifle	6
+29.61	kill	3	Minigun	6	Shock Rifle	shot
+30.00	player	Ping	0	38
+30.00	player	Ping	1	0
+30.00	player	Ping	2	0
+30.00	player	Ping	3	0
+30.00	player	Ping	4	0
+30.00	player	Ping	5	0
+30.00	player	Ping	6	0
+30.00	player	Ping	7	0
+30.11	item_get	Shock Rifle	3
+30.44	item_get	Flak Cannon	1
+31.32	item_get	Pulse Gun	7
+33.60	item_get	MedBox	1
+33.89	item_get	MedBox	1
+33.89	kill	3	Minigun	2	Enforcer	shot
+34.39	item_get	Enforcer	3
+34.45	kill	4	Flak Cannon	0	Enforcer	shredded
+34.78	player	Rename	Jeff	8
+34.78	player	Teamchange	8	2
+34.78	player	Connect	Jeff	8	False
+34.78	player	TeamName	8	
+34.78	player	Team	8	2
+34.78	player	TeamID	8	0
+34.78	player	Ping	8	0
+34.78	player	IsABot	8	False
+34.78	player	Skill	8	1.000000
+34.84	player	IP	8	192.168.1.165
+34.84	item_get	Health Vial	7
+34.89	item_get	Health Vial	7
+35.00	item_get	Health Vial	7
+35.28	player	Disconnect	6
+35.45	item_get	Enforcer	4
+35.78	item_get	Health Vial	7
+35.83	item_get	Health Vial	7
+35.89	item_get	Health Vial	7
+36.33	item_get	Sniper Rifle	4
+36.55	item_get	Box of Rifle Rounds	4
+37.11	item_get	Shock Rifle	5
+38.10	item_get	Enforcer	2
+38.82	item_get	Sniper Rifle	2
+39.11	kill	3	Minigun	4	Flak Cannon	shot
+41.39	kill	3	Minigun	1	Flak Cannon	shot
+41.56	kill	5	Shock Rifle	2	Sniper Rifle	jolted
+42.41	item_get	Blade Hopper	7
+42.57	item_get	Blade Hopper	7
+43.54	item_get	Flak Cannon	3
+44.21	kill	5	Shock Rifle	3	Flak Cannon	jolted
+45.26	item_get	Flak Cannon	5
+45.98	item_get	Sniper Rifle	5
+46.25	item_get	ShieldBelt	7
+46.31	item_get	Minigun	4
+46.48	item_get	Flak Cannon	1
+46.59	item_get	Flak Shells	7
+47.03	item_get	Flak Shells	7
+49.09	item_get	Sniper Rifle	2
+49.14	item_get	MedBox	5
+49.31	item_get	MedBox	5
+49.81	item_get	Ripper	7
+50.25	kill	0	Enforcer	8	Enforcer	shot
+51.63	item_get	Pulse Gun	4
+54.02	item_get	Pulse Cell	4
+54.20	item_get	Pulse Cell	4
+54.37	kill	1	Flak Cannon	2	Sniper Rifle	shredded
+55.53	item_get	Sniper Rifle	1
+55.81	item_get	Shock Core	0
+55.87	item_get	Shock Core	0
+57.15	kill	5	Flak Cannon	1	Flak Cannon	shredded
+57.15	spree	spree_dbl	5
+60.04	player	Ping	0	38
+60.04	player	Ping	1	0
+60.04	player	Ping	2	0
+60.04	player	Ping	3	0
+60.04	player	Ping	4	0
+60.04	player	Ping	5	0
+60.04	player	Ping	7	0
+60.04	player	Ping	8	85
+60.32	item_get	Flak Cannon	3
+60.48	item_get	Rocket Launcher	2
+60.65	item_get	Sniper Rifle	3
+62.32	item_get	RocketPack	2
+62.60	item_get	Thigh Pads	5
+64.66	item_get	Shock Core	5
+64.82	item_get	Shock Core	5
+64.94	item_get	Flak Cannon	1
+66.28	kill	7	Ripper	0	Enforcer	shredded
+66.45	item_get	Shock Rifle	3
+68.98	item_get	Enforcer	7
+69.09	item_get	Rocket Launcher	5
+72.74	item_get	Sniper Rifle	4
+73.12	item_get	Box of Rifle Rounds	4
+74.12	item_get	Shock Rifle	7
+74.23	kill	2	Rocket Launcher	4	Pulse Gun	RocketDeath
+74.73	item_get	Pulse Gun	1
+75.89	kill	3	Flak Cannon	1	Flak Cannon	shredded
+75.89	spree	spree_dbl	3
+75.94	item_get	Flak Cannon	2
+77.61	kill	2	Rocket Launcher	3	Flak Cannon	RocketDeath
+79.06	item_get	Shock Rifle	4
+79.69	kill	5	Flak Cannon	2	Flak Cannon	shredded
+79.74	item_get	Flak Cannon	5
+80.46	suicide	5	Flak Cannon	FlakDeath	Self
+81.48	item_get	Flak Cannon	7
+82.92	item_get	Rocket Launcher	3
+84.97	kill	7	Flak Cannon	4	Shock Rifle	shredded
+85.14	item_get	Biosludge Ammo	5
+85.30	item_get	Biosludge Ammo	5
+85.70	item_get	Enforcer	4
+86.20	item_get	Shock Rifle	2
+87.19	item_get	Shock Core	5
+87.36	item_get	Flak Shells	5
+87.80	item_get	RocketPack	1
+88.36	kill	4	Double Enforcer	1	Enforcer	shot
+88.69	item_get	Sniper Rifle	7
+89.96	item_get	Enforcer	0
+90.02	player	Ping	0	38
+90.02	player	Ping	1	0
+90.02	player	Ping	2	0
+90.02	player	Ping	3	0
+90.02	player	Ping	4	0
+90.02	player	Ping	5	0
+90.02	player	Ping	7	0
+90.02	player	Ping	8	6969
+90.07	item_get	Flak Shells	0
+91.80	item_get	Flak Cannon	5
+92.19	kill	3	Rocket Launcher	2	Shock Rifle	RocketDeath
+92.54	kill	4	Double Enforcer	0	Double Enforcer	shot
+92.60	item_get	Shock Rifle	7
+94.09	item_get	Shock Core	4
+94.20	item_get	Thigh Pads	3
+94.20	item_get	Shock Core	4
+95.58	item_get	Rocket Launcher	1
+98.68	item_get	Shock Rifle	4
+98.73	item_get	RocketPack	1
+98.96	kill	5	Flak Cannon	2	Enforcer	shredded
+99.01	item_get	Enforcer	5
+101.07	item_get	Shock Rifle	3
+101.18	item_get	Health Vial	8
+101.18	item_get	Health Vial	8
+101.18	item_get	Health Vial	8
+101.18	item_get	Health Vial	8
+101.18	item_get	Health Vial	8
+101.18	item_get	Health Vial	8
+101.74	item_get	MedBox	5
+102.01	item_get	MedBox	5
+104.18	item_get	Double Enforcer	3
+104.29	item_get	Flak Cannon	0
+106.84	item_get	MedBox	7
+107.17	kill	4	Shock Rifle	3	Shock Rifle	jolted
+108.67	kill	0	Flak Cannon	5	Flak Cannon	shredded
+108.67	spree	spree_kill	5
+110.67	item_get	Box of Rifle Rounds	2
+110.84	item_get	Sniper Rifle	2
+112.06	kill	1	Rocket Launcher	0	Flak Cannon	RocketDeath
+112.34	kill	4	Shock Rifle	7	Flak Cannon	jolted
+112.34	kill	7	None	4	Shock Rifle	shredded
+113.67	item_get	Shock Rifle	3
+113.78	item_get	Shock Rifle	8
+113.89	kill	1	Rocket Launcher	2	Sniper Rifle	RocketDeath
+116.10	item_get	Sniper Rifle	1
+116.15	item_get	Biosludge Ammo	7
+116.32	item_get	Biosludge Ammo	7
+117.48	item_get	Shock Rifle	5
+119.53	item_get	Flak Cannon	1
+120.03	player	Ping	0	38
+120.03	player	Ping	1	0
+120.03	player	Ping	2	0
+120.03	player	Ping	3	0
+120.03	player	Ping	4	0
+120.03	player	Ping	5	0
+120.03	player	Ping	7	0
+120.03	player	Ping	8	184
+120.08	kill	5	Shock Rifle	3	Shock Rifle	jolted
+120.14	item_get	Flak Cannon	2
+120.75	item_get	Shock Rifle	5
+121.30	kill	0	Enforcer	7	Enforcer	shot
+123.73	item_get	Flak Shells	8
+125.72	kill	0	Enforcer	2	Flak Cannon	shot
+126.83	item_get	Shock Rifle	4
+128.83	item_get	Shock Rifle	3
+129.11	kill	1	Flak Cannon	4	Shock Rifle	shredded
+129.11	spree	spree_dbl	1
+129.50	item_get	Shock Core	7
+129.61	item_get	Shock Core	7
+130.33	kill	5	Shock Rifle	1	Flak Cannon	jolted
+131.51	item_get	Minigun	2
+132.75	kill	3	Shock Rifle	5	Shock Rifle	jolted
+132.87	item_get	Large Bullets	2
+133.21	item_get	Large Bullets	2
+134.11	item_get	Shock Rifle	7
+134.79	item_get	Minigun	1
+135.13	item_get	Flak Cannon	3
+136.09	kill	7	Shock Rifle	3	Shock Rifle	jolted
+136.20	kill	2	Minigun	1	Minigun	shot
+137.20	item_get	Shock Rifle	5
+137.87	kill	7	Shock Rifle	5	Shock Rifle	jolted
+137.98	item_get	MedBox	2
+138.25	item_get	MedBox	2
+139.25	item_get	Shock Rifle	4
+139.80	item_get	Body Armor	2
+140.08	item_get	RocketPack	2
+140.25	kill	4	Shock Rifle	7	Shock Rifle	jolted
+140.30	item_get	Shock Rifle	4
+140.53	item_get	Shock Rifle	4
+142.64	item_get	Health Vial	5
+142.70	item_get	Health Vial	5
+142.81	item_get	Health Vial	5
+142.98	item_get	RocketPack	3
+143.59	item_get	Health Vial	5
+143.65	item_get	Health Vial	5
+143.71	item_get	Health Vial	5
+145.70	kill	1	Enforcer	3	Enforcer	shot
+145.92	item_get	Enforcer	1
+146.25	kill	4	Shock Rifle	1	Double Enforcer	jolted
+147.92	item_get	Shock Rifle	2
+148.64	item_get	Flak Cannon	0
+148.81	item_get	Minigun	7
+149.25	kill	2	Minigun	4	Shock Rifle	shot
+150.03	player	Ping	0	38
+150.03	player	Ping	1	0
+150.03	player	Ping	2	0
+150.03	player	Ping	3	0
+150.03	player	Ping	4	0
+150.03	player	Ping	5	0
+150.03	player	Ping	7	0
+150.03	player	Ping	8	110
+150.19	item_get	Blade Hopper	5
+150.36	item_get	Blade Hopper	5
+151.60	kill	8	Enforcer	2	Minigun	shot
+151.98	item_get	Double Enforcer	3
+153.92	item_get	Pulse Gun	7
+154.03	item_get	Flak Shells	3
+154.08	item_get	ShieldBelt	5
+154.25	item_get	Shock Rifle	1
+154.42	item_get	Flak Shells	5
+154.87	item_get	Flak Shells	5
+155.31	kill	3	Double Enforcer	8	Enforcer	shot
+155.48	item_get	Minigun	3
+155.70	item_get	Flak Cannon	4
+157.56	item_get	Ripper	5
+158.19	kill	3	Minigun	1	Shock Rifle	shot
+158.99	item_get	Enforcer	2
+159.72	item_get	Shock Rifle	3
+160.62	item_get	Shock Rifle	3
+162.08	item_get	Shock Rifle	2
+162.97	kill	3	Minigun	4	Flak Cannon	shot
+162.97	spree	spree_dbl	3
+164.13	player	Rename	Proletariat	9
+164.13	player	Teamchange	9	255
+164.13	player	Connect	Proletariat	9	False
+164.13	player	TeamName	9	
+164.13	player	Team	9	255
+164.13	player	TeamID	9	0
+164.13	player	Ping	9	0
+164.13	player	IsABot	9	False
+164.13	player	Skill	9	1.000000
+164.18	player	IP	9	192.168.1.19
+164.29	kill	2	Shock Rifle	3	Minigun	jolted
+164.29	player	Disconnect	3
+166.39	item_get	Minigun	2
+167.94	item_get	Thigh Pads	2
+169.50	kill	7	Pulse Gun	5	Ripper	Pulsed
+169.50	spree	spree_dbl	7
+172.28	item_get	Shock Core	4
+172.39	item_get	Shock Core	4
+172.55	item_get	Ripper	1
+173.37	item_get	MedBox	9
+173.48	item_get	MedBox	9
+174.82	kill	9	Enforcer	7	Pulse Gun	shot
+175.65	item_get	Shock Rifle	5
+176.53	item_get	MedBox	0
+176.92	item_get	Shock Rifle	4
+178.59	kill	8	Enforcer	1	Ripper	shot
+179.14	item_get	Pulse Gun	9
+179.14	item_get	Health Vial	8
+180.04	player	Ping	0	25
+180.04	player	Ping	1	0
+180.04	player	Ping	2	0
+180.04	player	Ping	4	0
+180.04	player	Ping	5	0
+180.04	player	Ping	7	0
+180.04	player	Ping	8	92
+180.04	player	Ping	9	44
+180.48	item_get	Flak Cannon	7
+182.09	kill	9	Pulse Gun	5	Shock Rifle	Pulsed
+182.43	kill	4	Shock Rifle	2	Minigun	jolted
+183.65	item_get	Minigun	4
+184.14	item_get	Shock Rifle	4
+184.37	item_get	Sniper Rifle	7
+184.48	item_get	Shock Rifle	1
+184.59	item_get	Box of Rifle Rounds	7
+185.03	kill	4	Minigun	9	Pulse Gun	shot
+185.03	item_get	Shock Core	8
+185.14	item_get	Shock Core	8
+186.14	item_get	Minigun	2
+186.14	item_get	Pulse Gun	4
+187.47	item_get	Large Bullets	2
+187.80	item_get	Large Bullets	2
+188.08	item_get	Flak Cannon	5
+189.74	kill	4	Minigun	1	Shock Rifle	shot
+189.74	spree	spree_dbl	4
+189.85	kill	7	Flak Cannon	8	Enforcer	shredded
+190.01	item_get	Body Armor	2
+190.18	item_get	Biosludge Ammo	0
+190.29	item_get	RocketPack	2
+190.29	item_get	Biosludge Ammo	0
+191.45	item_get	Shock Rifle	4
+191.45	item_get	Shock Rifle	7
+191.72	item_get	Enforcer	7
+193.54	item_get	Rocket Launcher	9
+194.36	kill	2	Minigun	7	Shock Rifle	shot
+194.75	item_get	Flak Cannon	1
+195.69	item_get	Flak Shells	8
+195.91	item_get	RocketPack	8
+196.18	item_get	Shock Rifle	2
+196.91	kill	2	Minigun	4	Minigun	shot
+196.96	item_get	Minigun	2
+199.47	kill	0	Flak Cannon	9	Rocket Launcher	shredded
+199.92	kill	9	None	0	Flak Cannon	RocketDeath
+201.37	item_get	Flak Cannon	5
+202.48	item_get	Sniper Rifle	1
+205.36	item_get	Rocket Launcher	5
+206.80	kill	2	Minigun	8	Enforcer	shot
+206.80	spree	spree_dbl	2
+207.46	item_get	Enforcer	2
+207.85	item_get	Pulse Cell	9
+207.96	item_get	Flak Shells	9
+208.02	kill	7	Enforcer	4	Enforcer	shot
+208.13	item_get	Thigh Pads	5
+208.35	item_get	Shock Rifle	1
+208.79	item_get	Shock Core	7
+208.90	item_get	Shock Core	7
+210.00	player	Ping	0	25
+210.00	player	Ping	1	0
+210.00	player	Ping	2	0
+210.00	player	Ping	4	0
+210.00	player	Ping	5	0
+210.00	player	Ping	7	0
+210.00	player	Ping	8	235
+210.00	player	Ping	9	103
+210.06	kill	5	Flak Cannon	1	Flak Cannon	shredded
+210.11	item_get	Health Vial	2
+210.28	item_get	Health Vial	2
+210.44	item_get	Health Vial	2
+210.61	item_get	Health Vial	2
+210.83	item_get	Health Vial	2
+210.83	item_get	Flak Cannon	5
+211.66	item_get	Shock Rifle	5
+212.93	item_get	Rocket Launcher	0
+213.27	kill	5	Flak Cannon	7	Enforcer	shredded
+213.32	item_get	Enforcer	5
+215.44	item_get	Rocket Launcher	2
+215.61	item_get	Flak Cannon	1
+216.29	item_get	Enforcer	4
+216.96	kill	0	Rocket Launcher	2	Minigun	RocketDeath
+217.01	item_get	Ripper	7
+217.25	kill	9	Enforcer	8	Enforcer	shot
+217.25	item_get	Enforcer	9
+219.26	item_get	Minigun	2
+219.26	item_get	MedBox	5
+219.48	item_get	MedBox	5
+220.60	item_get	Large Bullets	2
+220.93	item_get	Large Bullets	2
+221.88	kill	9	Double Enforcer	0	Rocket Launcher	shot
+223.15	item_get	Body Armor	2
+223.15	item_get	Shock Rifle	4
+223.43	item_get	RocketPack	2
+223.71	item_get	Sniper Rifle	1
+224.10	item_get	Rocket Launcher	9
+224.32	item_get	Rocket Launcher	9
+225.04	item_get	Health Vial	7
+225.09	item_get	Health Vial	7
+225.21	item_get	Health Vial	7
+225.37	kill	1	Flak Cannon	5	Flak Cannon	shredded
+225.98	item_get	Health Vial	7
+225.98	item_get	Health Vial	7
+226.09	item_get	Health Vial	7
+226.15	item_get	Box of Rifle Rounds	1
+227.09	item_get	Flak Cannon	4
+227.09	item_get	Shock Rifle	8
+227.76	item_get	Shock Core	9
+228.97	kill	1	Flak Cannon	4	Flak Cannon	shredded
+230.29	suicide	1	Flak Cannon	shredded	Self
+232.18	item_get	Shock Rifle	5
+232.40	item_get	Blade Hopper	7
+232.56	item_get	Blade Hopper	7
+234.61	kill	2	Minigun	8	Shock Rifle	shot
+235.11	item_get	Minigun	4
+235.56	item_get	RocketPack	0
+235.73	item_get	Shock Core	1
+236.23	item_get	ShieldBelt	7
+236.56	item_get	Flak Shells	7
+236.56	kill	9	Rocket Launcher	1	Enforcer	RocketDeath
+237.00	item_get	Flak Shells	7
+239.60	kill	0	Enforcer	2	Minigun	shot
+239.78	kill	8	Enforcer	0	Enforcer	shot
+240.00	player	Ping	0	26
+240.00	player	Ping	1	0
+240.00	player	Ping	2	0
+240.00	player	Ping	4	0
+240.00	player	Ping	5	0
+240.00	player	Ping	7	0
+240.00	player	Ping	8	191
+240.00	player	Ping	9	64
+240.46	item_get	Pulse Gun	4
+242.44	item_get	Shock Rifle	1
+242.44	item_get	Biosludge Ammo	9
+242.44	item_get	Biosludge Ammo	9
+242.83	item_get	Pulse Cell	4
+242.83	item_get	Enforcer	8
+243.06	item_get	Pulse Cell	4
+243.16	item_get	Shock Rifle	8
+244.54	item_get	Thigh Pads	5
+244.76	item_get	Flak Cannon	9
+247.55	item_get	Enforcer	5
+248.16	item_get	Flak Shells	2
+248.55	kill	1	Shock Rifle	8	Shock Rifle	jolted
+249.97	item_get	Shock Rifle	2
+251.14	item_get	Rocket Launcher	4
+251.25	item_get	Minigun	2
+251.42	kill	2	Shock Rifle	1	Shock Rifle	jolted
+252.37	kill	5	Shock Rifle	9	Rocket Launcher	jolted
+252.99	item_get	RocketPack	4
+253.32	item_get	Rocket Launcher	5
+254.65	item_get	Minigun	4
+256.27	kill	2	Minigun	7	Ripper	shot
+257.08	item_get	Shock Core	5
+257.30	item_get	Flak Shells	5
+259.23	item_get	Health Vial	8
+259.29	item_get	Health Vial	8
+259.45	item_get	Health Vial	8
+259.73	item_get	Box of Rifle Rounds	1
+259.90	item_get	Sniper Rifle	1
+259.90	item_get	Ripper	2
+260.56	item_get	Flak Cannon	4
+260.84	item_get	Health Vial	0
+261.62	item_get	Flak Cannon	5
+262.28	item_get	Shock Rifle	7
+262.45	item_get	Flak Cannon	1
+264.00	kill	4	Rocket Launcher	1	Flak Cannon	RocketDeath
+264.55	item_get	GES Bio Rifle	9
+264.83	item_get	MedBox	5
+265.10	item_get	MedBox	5
+265.27	kill	4	Rocket Launcher	7	Shock Rifle	RocketDeath
+268.25	item_get	Sniper Rifle	4
+269.36	item_get	MedBox	2
+269.47	item_get	Flak Cannon	9
+269.58	item_get	MedBox	2
+269.86	item_get	Health Vial	8
+269.92	item_get	Health Vial	8
+270.03	player	Ping	0	25
+270.03	player	Ping	1	0
+270.03	player	Ping	2	0
+270.03	player	Ping	4	0
+270.03	player	Ping	5	0
+270.03	player	Ping	7	0
+270.03	player	Ping	8	65
+270.03	player	Ping	9	59
+270.30	item_get	Shock Core	7
+270.53	item_get	Shock Core	7
+271.75	item_get	Shock Core	1
+271.75	item_get	Pulse Gun	8
+271.86	item_get	Shock Core	1
+272.31	kill	5	Flak Cannon	4	Flak Cannon	shredded
+272.65	kill	9	Flak Cannon	5	Flak Cannon	shredded
+273.20	item_get	Flak Cannon	9
+274.80	item_get	Rocket Launcher	7
+276.43	item_get	Shock Rifle	1
+277.32	item_get	Shock Rifle	1
+277.43	kill	8	Pulse Gun	0	Enforcer	Pulsed
+277.88	item_get	Shock Rifle	1
+278.37	item_get	Enforcer	9
+278.65	item_get	RocketPack	4
+278.76	item_get	Rocket Launcher	5
+279.33	item_get	Flak Shells	4
+281.38	kill	5	Rocket Launcher	7	Rocket Launcher	RocketDeath
+283.24	kill	1	Shock Rifle	4	Enforcer	jolted
+283.46	item_get	Enforcer	1
+284.18	kill	2	Shock Rifle	8	Pulse Gun	jolted
+284.46	kill	9	Flak Cannon	2	Shock Rifle	shredded
+286.33	item_get	Shock Rifle	0
+287.01	item_get	Thigh Pads	5
+287.07	item_get	Pulse Gun	9
+287.92	item_get	Flak Cannon	1
+288.09	item_get	Shock Rifle	4
+288.09	item_get	Pulse Cell	0
+289.43	kill	9	Flak Cannon	0	Shock Rifle	shredded
+290.78	item_get	MedBox	1
+290.89	item_get	Shock Rifle	7
+291.00	item_get	MedBox	1
+291.05	kill	5	Rocket Launcher	7	Enforcer	RocketDeath
+295.39	item_get	Sniper Rifle	4
+295.61	item_get	Box of Rifle Rounds	4
+295.61	item_get	Rocket Launcher	7
+296.00	kill	1	Flak Cannon	4	Shock Rifle	shredded
+297.94	kill	1	Flak Cannon	5	Rocket Launcher	FlakDeath
+299.31	item_get	Enforcer	2
+299.76	item_get	Shock Rifle	2
+299.86	item_get	Rocket Launcher	2
+300.03	player	Ping	0	25
+300.03	player	Ping	1	0
+300.03	player	Ping	2	0
+300.03	player	Ping	4	0
+300.03	player	Ping	5	0
+300.03	player	Ping	7	0
+300.03	player	Ping	8	70
+300.03	player	Ping	9	51
+300.58	item_get	Health Vial	8
+300.58	item_get	Health Vial	8
+300.69	item_get	Health Vial	8
+300.80	item_get	Health Vial	8
+300.96	item_get	Health Vial	8
+301.08	kill	1	Flak Cannon	2	Rocket Launcher	shredded
+301.08	spree	spree_dbl	1
+301.13	item_get	Rocket Launcher	1
+301.74	kill	7	Rocket Launcher	9	Flak Cannon	RocketDeath
+302.73	item_get	Flak Cannon	7
+303.94	item_get	Shock Rifle	4
+304.60	item_get	Shock Core	2
+304.71	item_get	Shock Core	2
+305.27	item_get	Shock Rifle	1
+305.77	kill	4	Shock Rifle	5	Enforcer	jolted
+305.77	spree	spree_dbl	4
+306.11	item_get	Sniper Rifle	1
+306.67	kill	8	Enforcer	0	Enforcer	shot
+307.23	item_get	Minigun	9
+309.25	item_get	Shock Rifle	2
+309.98	item_get	Enforcer	8
+310.98	kill	4	Shock Rifle	2	Shock Rifle	jolted
+311.49	kill	9	Minigun	1	Flak Cannon	shot
+311.83	item_get	Flak Shells	5
+312.34	item_get	RocketPack	5
+313.05	item_get	Sniper Rifle	7
+314.34	kill	9	Minigun	7	Flak Cannon	shot
+315.38	item_get	Rocket Launcher	8
+315.44	item_get	Sniper Rifle	9
+315.55	item_get	Enforcer	4
+315.72	item_get	Flak Cannon	9
+316.78	item_get	Shock Rifle	5
+317.45	item_get	Thigh Pads	8
+318.17	item_get	Shock Rifle	2
+320.93	item_get	MedBox	4
+322.87	item_get	Shock Rifle	1
+322.92	kill	8	Rocket Launcher	2	Shock Rifle	RocketDeath
+323.25	item_get	MedBox	4
+324.92	item_get	Biosludge Ammo	9
+325.03	item_get	Biosludge Ammo	9
+326.25	kill	0	Enforcer	5	Shock Rifle	shot
+326.36	item_get	Shock Rifle	0
+328.93	item_get	Shock Rifle	7
+328.98	item_get	Shock Rifle	2
+329.65	kill	8	Double Enforcer	1	Shock Rifle	shot
+330.04	player	Ping	0	25
+330.04	player	Ping	1	0
+330.04	player	Ping	2	0
+330.04	player	Ping	4	0
+330.04	player	Ping	5	0
+330.04	player	Ping	7	0
+330.04	player	Ping	8	132
+330.04	player	Ping	9	51
+331.15	item_get	Shock Core	9
+331.21	item_get	Shock Core	9
+331.43	item_get	Rocket Launcher	5
+332.10	item_get	Shock Rifle	0
+333.26	item_get	RocketPack	5
+333.49	item_get	Shock Rifle	8
+333.60	kill	4	Shock Rifle	0	Shock Rifle	jolted
+334.54	item_get	Shock Rifle	1
+334.76	item_get	Sniper Rifle	7
+334.81	item_get	Sniper Rifle	4
+335.03	item_get	Box of Rifle Rounds	7
+335.71	kill	4	Shock Rifle	7	Shock Rifle	jolted
+335.77	item_get	Shock Rifle	2
+337.95	item_get	Shock Rifle	9
+338.23	suicide	9	Flak Cannon	FlakDeath	Self
+338.23	kill	9	None	8	Shock Rifle	FlakDeath
+338.23	spree	spree_dbl	9
+340.61	item_get	Shock Core	1
+340.78	item_get	Shock Core	1
+340.78	item_get	Pulse Cell	5
+340.78	kill	4	Sniper Rifle	2	Shock Rifle	shot
+340.78	spree	spree_dbl	4
+341.00	item_get	Pulse Cell	5
+343.49	item_get	Pulse Gun	5
+344.43	item_get	Health Vial	0
+344.48	item_get	Health Vial	0
+344.48	item_get	MedBox	8
+344.60	item_get	Health Vial	0
+346.53	item_get	Flak Cannon	7
+346.75	item_get	Flak Cannon	8
+347.36	item_get	Health Vial	5
+347.36	item_get	Health Vial	0
+347.52	item_get	Health Vial	0
+347.85	kill	2	Enforcer	4	Sniper Rifle	shot
+347.85	spree	spree_kill	4
+349.19	suicide	8	Flak Cannon	shredded	Self
+349.30	item_get	Sniper Rifle	2
+349.41	item_get	Health Vial	5
+349.52	item_get	Health Vial	5
+350.62	kill	9	Enforcer	1	Shock Rifle	shot
+350.79	item_get	Flak Cannon	7
+351.79	item_get	Health Vial	5
+351.85	item_get	Health Vial	5
+352.02	item_get	Shock Rifle	9
+352.35	item_get	Flak Shells	4
+352.96	item_get	RocketPack	4
+354.41	item_get	Health Vial	5
+355.70	item_get	Flak Cannon	1
+356.14	kill	9	Shock Rifle	0	Enforcer	jolted
+356.25	kill	7	Flak Cannon	1	Flak Cannon	shredded
+357.37	item_get	Shock Rifle	4
+357.43	item_get	Flak Cannon	7
+357.66	item_get	Flak Cannon	4
+357.83	item_get	Pulse Gun	2
+360.05	player	Ping	0	74
+360.05	player	Ping	1	0
+360.05	player	Ping	2	0
+360.05	player	Ping	4	0
+360.05	player	Ping	5	0
+360.05	player	Ping	7	0
+360.05	player	Ping	8	78
+360.05	player	Ping	9	58
+361.96	item_get	Shock Rifle	4
+363.30	kill	5	Rocket Launcher	8	Enforcer	RocketDeath
+363.91	kill	2	Pulse Gun	5	Rocket Launcher	zapped
+363.96	item_get	Sniper Rifle	4
+364.02	item_get	Shock Rifle	1
+364.79	kill	5	None	9	Shock Rifle	RocketDeath
+364.79	spree	spree_kill	9
+365.90	item_get	Rocket Launcher	2
+367.23	item_get	Flak Cannon	5
+367.39	item_get	Box of Rifle Rounds	4
+368.11	item_get	MedBox	2
+368.22	kill	7	Flak Cannon	4	Flak Cannon	shredded
+368.39	item_get	MedBox	2
+369.27	item_get	Enforcer	2
+369.44	item_get	Shock Rifle	8
+373.19	item_get	MedBox	1
+373.47	item_get	MedBox	1
+373.82	kill	7	Flak Cannon	1	Shock Rifle	shredded
+373.87	item_get	Shock Rifle	7
+374.10	item_get	Minigun	4
+375.44	item_get	Large Bullets	4
+375.77	item_get	Large Bullets	4
+375.88	kill	5	Flak Cannon	7	Flak Cannon	shredded
+375.88	spree	spree_dbl	5
+375.94	item_get	Flak Cannon	9
+376.82	item_get	Thigh Pads	8
+376.93	item_get	Shock Core	2
+376.93	item_get	Shock Core	2
+378.00	item_get	Body Armor	4
+378.28	item_get	RocketPack	4
+380.99	kill	4	Minigun	9	Flak Cannon	shot
+381.10	item_get	Sniper Rifle	1
+381.22	item_get	Shock Rifle	7
+381.32	item_get	Flak Cannon	1
+381.32	item_get	Shock Rifle	8
+382.77	item_get	Flak Cannon	4
+383.61	item_get	Shock Rifle	4
+386.17	kill	7	Shock Rifle	0	Enforcer	jolted
+386.73	item_get	Rocket Launcher	5
+387.17	item_get	Shock Rifle	1
+388.45	item_get	GES Bio Rifle	9
+388.56	kill	4	Flak Cannon	2	Pulse Gun	shredded
+388.89	item_get	RocketPack	5
+389.00	item_get	Enforcer	7
+389.62	item_get	Pulse Gun	4
+390.01	player	Ping	0	25
+390.01	player	Ping	1	0
+390.01	player	Ping	2	0
+390.01	player	Ping	4	0
+390.01	player	Ping	5	0
+390.01	player	Ping	7	0
+390.01	player	Ping	8	204
+390.01	player	Ping	9	43
+391.22	item_get	MedBox	7
+391.44	item_get	MedBox	7
+393.16	item_get	Flak Cannon	9
+396.39	kill	8	Shock Rifle	2	Enforcer	jolted
+396.45	item_get	Pulse Cell	5
+396.67	item_get	Pulse Cell	5
+396.67	kill	7	Shock Rifle	4	Flak Cannon	jolted
+399.12	item_get	Pulse Gun	5
+401.46	kill	1	Flak Cannon	7	Shock Rifle	shredded
+401.52	item_get	Shock Rifle	1
+401.74	item_get	Shock Rifle	2
+402.96	item_get	Enforcer	2
+403.73	item_get	Rocket Launcher	4
+404.57	kill	9	Flak Cannon	4	Rocket Launcher	shredded
+405.45	kill	0	Enforcer	5	Pulse Gun	shot
+407.91	item_get	Rocket Launcher	7
+408.43	kill	1	Flak Cannon	8	Shock Rifle	shredded
+408.99	item_get	Pulse Gun	0
+411.20	item_get	Minigun	4
+411.48	item_get	Shock Core	1
+411.65	item_get	Shock Core	1
+412.43	item_get	Large Bullets	4
+412.59	kill	9	Flak Cannon	7	Impact Hammer	shredded
+412.70	item_get	Large Bullets	4
+412.87	item_get	MedBox	2
+413.09	item_get	MedBox	2
+413.87	item_get	Thigh Pads	9
+414.81	item_get	Flak Cannon	1
+414.92	item_get	Body Armor	4
+415.20	item_get	RocketPack	4
+415.31	item_get	Box of Rifle Rounds	5
+415.48	item_get	Sniper Rifle	5
+418.57	item_get	Shock Rifle	4
+419.01	kill	1	Flak Cannon	8	Enforcer	shredded
+419.07	item_get	Shock Rifle	7
+420.00	player	Ping	0	25
+420.00	player	Ping	1	0
+420.00	player	Ping	2	0
+420.00	player	Ping	4	0
+420.00	player	Ping	5	0
+420.00	player	Ping	7	0
+420.00	player	Ping	8	171
+420.00	player	Ping	9	69
+420.39	kill	4	Minigun	7	Shock Rifle	shot
+420.78	kill	5	Sniper Rifle	2	Shock Rifle	shot
+422.18	item_get	MedBox	1
+422.35	item_get	MedBox	1
+424.37	item_get	Pulse Cell	0
+424.48	item_get	Flak Shells	0
+425.15	item_get	Shock Rifle	2
+426.49	item_get	Flak Cannon	7
+426.99	item_get	Shock Rifle	8
+427.04	item_get	Shock Core	9
+427.21	item_get	Health Vial	1
+427.27	item_get	Shock Core	9
+427.32	item_get	Health Vial	1
+427.43	item_get	Health Vial	1
+428.21	item_get	Health Vial	1
+428.21	item_get	Health Vial	1
+428.32	item_get	Health Vial	1
+431.99	kill	8	Shock Rifle	2	Shock Rifle	jolted
+432.65	kill	4	Minigun	1	Shock Rifle	shot
+433.09	item_get	Biosludge Ammo	9
+433.20	item_get	Biosludge Ammo	9
+433.31	item_get	Enforcer	4
+436.82	item_get	Shock Rifle	1
+437.60	item_get	Shock Rifle	5
+438.54	kill	1	Shock Rifle	5	Shock Rifle	jolted
+439.10	kill	7	Flak Cannon	0	Pulse Gun	shredded
+441.11	kill	9	GES Bio Rifle	7	Flak Cannon	Corroded
+444.19	kill	1	Shock Rifle	2	Enforcer	jolted
+444.46	item_get	Enforcer	1
+446.35	item_get	Shock Rifle	5
+446.57	item_get	Blade Hopper	4
+446.73	item_get	Blade Hopper	4
+448.00	item_get	Minigun	7
+448.72	kill	5	Shock Rifle	1	Shock Rifle	jolted
+449.32	item_get	Large Bullets	7
+449.32	item_get	GES Bio Rifle	8
+449.65	item_get	Large Bullets	7
+450.04	player	Ping	0	26
+450.04	player	Ping	1	0
+450.04	player	Ping	2	0
+450.04	player	Ping	4	0
+450.04	player	Ping	5	0
+450.04	player	Ping	7	0
+450.04	player	Ping	8	103
+450.04	player	Ping	9	58
+450.37	item_get	ShieldBelt	4
+450.70	item_get	Flak Shells	4
+451.15	item_get	Flak Shells	4
+451.53	item_get	Shock Rifle	2
+451.86	item_get	Body Armor	7
+452.14	item_get	RocketPack	7
+452.98	item_get	MedBox	5
+453.83	item_get	Ripper	4
+453.88	item_get	Shock Rifle	1
+454.88	item_get	RocketPack	1
+455.44	item_get	Shock Core	0
+455.44	item_get	Shock Core	0
+455.60	kill	2	Shock Rifle	5	Shock Rifle	jolted
+455.66	item_get	Shock Rifle	2
+459.39	kill	7	Minigun	1	Shock Rifle	shot
+459.45	item_get	Health Vial	4
+459.61	item_get	Health Vial	4
+459.83	item_get	Health Vial	4
+460.00	item_get	Health Vial	4
+460.17	item_get	Health Vial	4
+460.28	item_get	Pulse Cell	9
+460.50	item_get	Pulse Cell	9
+462.38	kill	7	Minigun	5	Enforcer	shot
+462.72	item_get	Enforcer	7
+463.38	item_get	Thigh Pads	8
+463.82	item_get	Shock Rifle	0
+464.99	item_get	Shock Rifle	7
+464.99	item_get	Flak Shells	7
+464.99	item_get	Shock Rifle	8
+465.26	item_get	Shock Rifle	1
+466.49	item_get	Rocket Launcher	4
+467.87	kill	7	Shock Rifle	5	Enforcer	jolted
+467.87	spree	spree_dbl	7
+473.41	kill	8	GES Bio Rifle	1	Shock Rifle	Corroded
+473.70	kill	0	Shock Rifle	7	Shock Rifle	jolted
+474.20	kill	9	GES Bio Rifle	4	Minigun	Corroded
+474.20	suicide	9	GES Bio Rifle	Corroded	Self
+474.20	kill	9	None	2	Shock Rifle	Corroded
+475.43	item_get	Flak Cannon	5
+478.16	item_get	Minigun	1
+478.83	item_get	Enforcer	4
+479.39	item_get	Flak Cannon	2
+480.00	player	Ping	0	25
+480.00	player	Ping	1	0
+480.00	player	Ping	2	0
+480.00	player	Ping	4	0
+480.00	player	Ping	5	0
+480.00	player	Ping	7	0
+480.00	player	Ping	8	60
+480.00	player	Ping	9	60
+482.16	kill	0	Shock Rifle	9	Enforcer	jolted
+482.16	spree	spree_kill	9
+485.44	kill	2	Flak Cannon	5	Flak Cannon	shredded
+485.89	item_get	Shock Rifle	4
+487.22	kill	8	Shock Rifle	2	Flak Cannon	Corroded
+487.56	item_get	Flak Cannon	4
+487.56	item_get	RocketPack	0
+488.05	item_get	Rocket Launcher	7
+488.78	item_get	Enforcer	9
+489.55	item_get	Pulse Gun	1
+489.66	item_get	Minigun	4
+490.22	item_get	RocketPack	7
+490.83	item_get	Sniper Rifle	4
+491.66	item_get	Biosludge Ammo	5
+491.82	item_get	Biosludge Ammo	5
+492.15	item_get	Box of Rifle Rounds	4
+493.71	item_get	Shock Core	5
+493.77	kill	8	Shock Rifle	0	Shock Rifle	jolted
+493.88	item_get	Flak Shells	5
+494.50	kill	7	Rocket Launcher	8	Shock Rifle	RocketDeath
+495.22	item_get	Health Vial	1
+495.28	item_get	Health Vial	1
+495.39	item_get	Health Vial	1
+495.50	item_get	Shock Rifle	7
+495.66	item_get	Shock Core	2
+495.66	item_get	Shock Core	2
+496.16	item_get	Health Vial	1
+496.16	item_get	Health Vial	1
+496.27	item_get	Health Vial	1
+496.77	kill	9	Double Enforcer	2	Enforcer	shot
+496.77	spree	spree_dbl	9
+498.20	item_get	Flak Cannon	5
+498.65	kill	4	Minigun	7	Shock Rifle	shot
+499.76	item_get	Large Bullets	0
+499.98	item_get	Large Bullets	0
+500.87	item_get	Minigun	0
+502.20	item_get	Thigh Pads	4
+502.53	item_get	Blade Hopper	1
+502.58	item_get	Enforcer	8
+502.69	item_get	Blade Hopper	1
+503.69	kill	8	Double Enforcer	2	Enforcer	shot
+504.18	item_get	Shock Core	4
+504.35	item_get	Shock Core	4
+505.73	item_get	Minigun	7
+505.79	item_get	Sniper Rifle	5
+506.96	item_get	Enforcer	9
+508.05	kill	0	Minigun	1	Pulse Gun	shot
+508.64	item_get	Rocket Launcher	4
+508.87	item_get	Body Armor	7
+509.16	item_get	RocketPack	7
+509.49	item_get	Shock Rifle	5
+510.00	player	Ping	0	25
+510.00	player	Ping	1	0
+510.00	player	Ping	2	0
+510.00	player	Ping	4	0
+510.00	player	Ping	5	0
+510.00	player	Ping	7	0
+510.00	player	Ping	8	144
+510.00	player	Ping	9	57
+510.65	kill	0	Minigun	9	Double Enforcer	shot
+512.32	item_get	Flak Cannon	2
+512.61	item_get	Flak Shells	7
+512.96	kill	0	Minigun	8	Double Enforcer	shot
+513.81	kill	4	Flak Cannon	5	Flak Cannon	shredded
+514.48	item_get	Double Enforcer	0
+514.54	item_get	Flak Cannon	4
+516.21	item_get	Shock Rifle	1
+516.77	item_get	Minigun	5
+517.05	item_get	Double Enforcer	7
+517.05	item_get	Flak Cannon	8
+517.94	item_get	Pulse Cell	9
+518.45	item_get	MedBox	4
+518.68	item_get	MedBox	4
+518.90	kill	0	Minigun	1	Shock Rifle	shot
+518.90	spree	spree_mult	0
+519.46	item_get	Shock Rifle	0
+519.96	item_get	Sniper Rifle	2
+520.06	item_get	Shock Rifle	0
+521.96	kill	9	Enforcer	5	Minigun	shot
+523.17	item_get	Minigun	9
+523.51	item_get	Shock Rifle	7
+525.55	item_get	MedBox	9
+525.72	item_get	MedBox	9
+526.10	item_get	Biosludge Ammo	1
+526.27	item_get	Biosludge Ammo	1
+526.43	item_get	MedBox	0
+526.54	item_get	MedBox	0
+526.87	kill	8	Flak Cannon	2	Flak Cannon	shredded
+526.93	item_get	Flak Cannon	7
+526.98	item_get	Pulse Cell	4
+527.92	kill	8	Flak Cannon	7	Shock Rifle	FlakDeath
+528.14	item_get	Shock Core	1
+528.31	item_get	Flak Shells	1
+529.41	item_get	Pulse Gun	4
+529.69	item_get	Health Vial	0
+529.74	item_get	Health Vial	0
+529.80	item_get	Health Vial	0
+530.41	item_get	Shock Rifle	5
+530.68	item_get	Health Vial	0
+530.80	item_get	Health Vial	0
+530.80	item_get	Health Vial	0
+532.68	suicide	8	Flak Cannon	shredded	Self
+532.74	item_get	Flak Cannon	1
+533.91	item_get	Shock Rifle	2
+534.58	item_get	Shock Rifle	7
+535.14	item_get	Flak Cannon	2
+535.49	kill	0	Minigun	4	Rocket Launcher	shot
+536.18	item_get	Rocket Launcher	0
+537.21	item_get	Blade Hopper	0
+537.26	item_get	Blade Hopper	0
+537.32	item_get	RocketPack	2
+538.60	item_get	Shock Core	8
+538.60	item_get	Shock Core	8
+539.22	kill	2	Shock Rifle	5	Shock Rifle	jolted
+540.05	player	Ping	0	25
+540.05	player	Ping	1	0
+540.05	player	Ping	2	0
+540.05	player	Ping	4	0
+540.05	player	Ping	5	0
+540.05	player	Ping	7	0
+540.05	player	Ping	8	49
+540.05	player	Ping	9	52
+540.32	item_get	Sniper Rifle	1
+540.55	item_get	Box of Rifle Rounds	1
+540.88	suicide	9	Impact Hammer	impact	Self
+541.55	kill	7	Shock Rifle	2	Shock Rifle	jolted
+542.06	item_get	Pulse Gun	8
+543.51	item_get	Shock Rifle	4
+543.51	item_get	Rocket Launcher	5
+544.06	suicide	0	Rocket Launcher	RocketDeath	Self
+545.68	item_get	RocketPack	5
+547.35	kill	7	Shock Rifle	4	Shock Rifle	jolted
+547.68	item_get	Shock Rifle	2
+547.86	item_get	Rocket Launcher	8
+548.61	item_get	MedBox	1
+548.78	item_get	MedBox	1
+550.62	kill	2	Shock Rifle	7	Shock Rifle	jolted
+551.13	item_get	Shock Rifle	0
+551.52	item_get	Pulse Cell	9
+551.58	item_get	Flak Shells	9
+553.43	item_get	Shock Rifle	1
+554.55	item_get	Shock Rifle	4
+554.55	item_get	Flak Shells	4
+555.32	kill	1	Shock Rifle	0	Shock Rifle	jolted
+555.32	spree	spree_kill	0
+555.73	kill	9	Enforcer	5	Rocket Launcher	shot
+556.12	item_get	Rocket Launcher	9
+558.06	item_get	Shock Rifle	7
+558.22	kill	1	Flak Cannon	2	Shock Rifle	shredded
+559.22	kill	7	Shock Rifle	1	Flak Cannon	jolted
+561.98	item_get	Flak Cannon	4
+562.48	suicide	4	Shock Rifle	jolted	Self
+562.54	item_get	Shock Rifle	5
+562.81	item_get	Thigh Pads	0
+565.64	kill	5	Shock Rifle	7	Shock Rifle	jolted
+567.13	item_get	Health Vial	4
+567.25	item_get	Health Vial	4
+567.36	item_get	Health Vial	4
+567.48	kill	1	Enforcer	5	Shock Rifle	shot
+567.48	spree	spree_dbl	1
+567.54	item_get	Shock Rifle	0
+567.66	item_get	Shock Rifle	0
+567.66	item_get	Biosludge Ammo	9
+567.77	item_get	Biosludge Ammo	9
+568.11	item_get	Health Vial	4
+568.17	kill	2	Enforcer	1	Enforcer	shot
+568.17	item_get	Health Vial	4
+568.23	item_get	Health Vial	4
+569.46	item_get	Shock Rifle	0
+570.01	player	Ping	0	25
+570.01	player	Ping	1	0
+570.01	player	Ping	2	0
+570.01	player	Ping	4	0
+570.01	player	Ping	5	0
+570.01	player	Ping	7	0
+570.01	player	Ping	8	92
+570.01	player	Ping	9	53
+570.18	item_get	Shock Rifle	0
+570.79	item_get	Shock Rifle	2
+571.07	item_get	Shock Rifle	7
+571.47	item_get	Shock Core	9
+571.59	item_get	Shock Core	9
+571.94	item_get	RocketPack	2
+572.69	item_get	Enforcer	1
+572.92	kill	0	Shock Rifle	8	Rocket Launcher	jolted
+573.74	item_get	Shock Core	1
+573.86	item_get	Shock Core	1
+573.92	suicide	0	Shock Rifle	jolted	Self
+574.75	item_get	Blade Hopper	4
+574.87	item_get	Minigun	5
+574.92	item_get	Blade Hopper	4
+575.25	kill	7	Shock Rifle	9	Rocket Launcher	jolted
+576.08	item_get	Large Bullets	5
+576.41	item_get	Large Bullets	5
+576.41	kill	7	Shock Rifle	2	Enforcer	jolted
+578.35	item_get	Shock Rifle	1
+578.57	item_get	ShieldBelt	4
+578.63	item_get	Body Armor	5
+578.91	item_get	Flak Shells	4
+578.91	item_get	RocketPack	5
+579.36	item_get	Flak Shells	4
+580.19	item_get	Enforcer	7
+581.57	item_get	GES Bio Rifle	8
+581.74	item_get	Rocket Launcher	5
+582.07	item_get	Ripper	4
+582.56	typing	True	8
+582.95	item_get	Shock Rifle	7
+584.28	typing	False	8
+584.89	kill	4	Ripper	7	Shock Rifle	shredded
+585.77	item_get	Shock Rifle	4
+587.00	item_get	Minigun	0
+587.88	kill	5	Minigun	1	Shock Rifle	shot
+588.05	item_get	Health Vial	4
+588.10	item_get	Shock Rifle	2
+588.22	item_get	Health Vial	4
+588.38	item_get	Health Vial	4
+588.55	item_get	Health Vial	4
+588.77	item_get	Health Vial	4
+589.16	item_get	Shock Rifle	9
+589.94	kill	5	Minigun	2	Shock Rifle	shot
+590.99	item_get	Flak Shells	7
+590.99	item_get	Shock Rifle	7
+591.27	item_get	Flak Cannon	8
+592.76	item_get	Shock Rifle	9
+593.57	kill	9	Shock Rifle	5	Minigun	jolted
+594.03	item_get	Rocket Launcher	4
+594.14	item_get	Minigun	9
+594.20	kill	0	Minigun	7	Shock Rifle	shot
+594.67	item_get	Box of Rifle Rounds	1
+594.85	item_get	Sniper Rifle	1
+596.04	item_get	RocketPack	4
+596.62	item_get	Shock Rifle	0
+596.96	item_get	Flak Cannon	5
+597.02	kill	0	Minigun	9	Minigun	shot
+597.02	item_get	Minigun	0
+598.43	item_get	Thigh Pads	8
+600.04	player	Ping	0	25
+600.04	player	Ping	1	0
+600.04	player	Ping	2	0
+600.04	player	Ping	4	0
+600.04	player	Ping	5	0
+600.04	player	Ping	7	0
+600.04	player	Ping	8	312
+600.04	player	Ping	9	374
+600.70	item_get	Shock Rifle	1
+602.79	item_get	Shock Rifle	7
+603.63	item_get	Pulse Cell	4
+603.85	item_get	Pulse Cell	4
+605.47	item_get	Flak Cannon	9
+605.86	item_get	MedBox	0
+606.52	item_get	Pulse Gun	4
+606.91	item_get	Sniper Rifle	5
+609.32	item_get	MedBox	7
+609.38	item_get	MedBox	7
+610.00	kill	0	Minigun	2	Enforcer	shot
+610.00	spree	spree_dbl	0
+610.39	suicide	5	Flak Cannon	shredded	Self
+611.84	item_get	Enforcer	0
+613.18	kill	7	Shock Rifle	1	Shock Rifle	jolted
+613.18	spree	spree_dbl	7
+614.01	item_get	Shock Core	9
+614.01	item_get	Shock Core	9
+614.18	item_get	Flak Cannon	8
+614.56	item_get	Rocket Launcher	5
+615.17	item_get	Sniper Rifle	8
+616.64	item_get	Shock Core	2
+616.69	item_get	Shock Core	2
+617.79	kill	0	Minigun	7	Shock Rifle	shot
+618.19	item_get	Shock Rifle	1
+621.10	item_get	Shock Rifle	2
+621.48	kill	4	Rocket Launcher	8	Flak Cannon	RocketDeath
+623.13	item_get	Flak Shells	7
+623.18	kill	1	Shock Rifle	2	Shock Rifle	jolted
+623.64	item_get	Flak Cannon	4
+623.97	kill	5	Rocket Launcher	1	Shock Rifle	RocketDeath
+623.97	spree	spree_dbl	5
+625.47	kill	5	Rocket Launcher	0	Minigun	RocketDeath
+625.47	spree	spree_kill	0
+626.00	item_get	Shock Rifle	7
+626.06	item_get	Shock Rifle	9
+626.40	item_get	Box of Rifle Rounds	4
+626.57	item_get	Sniper Rifle	4
+627.20	item_get	Shock Rifle	2
+627.42	item_get	Shock Rifle	2
+627.53	kill	9	Flak Cannon	5	Rocket Launcher	FlakDeath
+627.70	item_get	Rocket Launcher	2
+630.03	player	Ping	0	26
+630.03	player	Ping	1	0
+630.03	player	Ping	2	0
+630.03	player	Ping	4	0
+630.03	player	Ping	5	0
+630.03	player	Ping	7	0
+630.03	player	Ping	8	94
+630.03	player	Ping	9	68
+630.58	item_get	Health Vial	1
+630.63	item_get	Health Vial	1
+630.80	item_get	Health Vial	1
+631.57	item_get	Health Vial	1
+631.57	item_get	Health Vial	1
+631.68	item_get	Shock Rifle	8
+631.73	item_get	Health Vial	1
+632.83	item_get	Biosludge Ammo	0
+632.95	item_get	Biosludge Ammo	0
+634.27	kill	9	Shock Rifle	2	Shock Rifle	jolted
+634.60	item_get	Sniper Rifle	7
+634.82	item_get	Shock Rifle	5
+634.93	item_get	Pulse Gun	1
+635.21	item_get	Shock Rifle	9
+635.43	item_get	Shock Rifle	9
+637.55	item_get	Pulse Cell	4
+637.77	item_get	Pulse Cell	4
+638.71	kill	8	Shock Rifle	5	Shock Rifle	jolted
+638.71	spree	spree_dbl	8
+639.54	item_get	MedBox	7
+639.54	kill	1	Pulse Gun	4	Rocket Launcher	zapped
+639.60	item_get	Rocket Launcher	1
+640.53	item_get	MedBox	7
+641.69	kill	9	Shock Rifle	7	Shock Rifle	jolted
+642.53	item_get	Shock Rifle	2
+642.70	item_get	Shock Rifle	2
+642.92	item_get	Flak Cannon	5
+643.42	item_get	GES Bio Rifle	0
+645.08	item_get	Shock Rifle	4
+645.24	item_get	Shock Rifle	9
+647.37	kill	1	Pulse Gun	9	Shock Rifle	zapped
+647.43	item_get	Shock Rifle	1
+647.93	item_get	Minigun	7
+648.04	kill	4	Shock Rifle	2	Shock Rifle	jolted
+648.10	item_get	Shock Rifle	4
+648.21	item_get	Flak Cannon	0
+649.15	item_get	Large Bullets	7
+649.48	item_get	Large Bullets	7
+651.69	item_get	Body Armor	7
+651.97	item_get	RocketPack	7
+652.65	kill	5	Flak Cannon	4	Shock Rifle	shredded
+652.65	spree	spree_dbl	5
+653.04	item_get	Shock Rifle	5
+654.97	kill	1	Pulse Gun	5	Flak Cannon	zapped
+655.48	item_get	Shock Core	9
+655.48	item_get	Shock Core	9
+657.31	item_get	Shock Rifle	2
+657.37	kill	1	Pulse Gun	8	Shock Rifle	zapped
+657.49	item_get	Shock Rifle	1
+659.23	item_get	Flak Cannon	2
+659.85	kill	7	Minigun	2	Flak Cannon	shot
+660.01	player	Ping	0	26
+660.01	player	Ping	1	0
+660.01	player	Ping	2	0
+660.01	player	Ping	4	0
+660.01	player	Ping	5	0
+660.01	player	Ping	7	0
+660.01	player	Ping	8	137
+660.01	player	Ping	9	58
+660.46	item_get	Sniper Rifle	4
+660.58	item_get	Flak Cannon	7
+660.69	item_get	Box of Rifle Rounds	4
+661.02	item_get	Sniper Rifle	1
+661.47	kill	0	Flak Cannon	1	Pulse Gun	shredded
+661.58	item_get	Shock Core	8
+661.58	item_get	Shock Core	8
+661.98	item_get	Shock Rifle	7
+662.37	item_get	Pulse Gun	4
+662.53	item_get	Thigh Pads	8
+662.87	item_get	Health Vial	5
+662.92	item_get	Health Vial	5
+663.03	item_get	Health Vial	5
+663.15	kill	0	Flak Cannon	4	Pulse Gun	shredded
+663.26	item_get	Pulse Gun	0
+663.76	item_get	Health Vial	5
+663.82	item_get	Health Vial	5
+664.15	item_get	Health Vial	5
+664.20	item_get	Sniper Rifle	0
+666.80	kill	9	Enforcer	5	Enforcer	shot
+667.02	kill	0	Flak Cannon	7	Flak Cannon	shredded
+667.02	spree	spree_dbl	0
+667.54	item_get	Shock Rifle	2
+667.81	item_get	Enforcer	9
+668.65	item_get	Flak Shells	4
+669.20	item_get	RocketPack	4
+669.25	item_get	Flak Cannon	2
+670.92	kill	2	Flak Cannon	4	Enforcer	shredded
+670.97	kill	8	Enforcer	7	Enforcer	shot
+671.14	item_get	MedBox	9
+671.47	item_get	Enforcer	2
+672.04	item_get	Enforcer	8
+672.15	item_get	Shock Rifle	1
+672.87	item_get	MedBox	0
+673.05	item_get	MedBox	0
+676.34	kill	9	Double Enforcer	2	Shock Rifle	shot
+676.89	item_get	Shock Core	0
+676.99	item_get	Flak Shells	0
+677.33	item_get	Shock Rifle	7
+677.66	item_get	Shock Rifle	9
+678.16	kill	1	Shock Rifle	5	Enforcer	jolted
+678.16	spree	spree_dbl	1
+678.16	item_get	Health Vial	9
+678.22	item_get	Health Vial	9
+678.44	item_get	Health Vial	9
+678.60	item_get	Health Vial	9
+680.00	item_get	Damage Amplifier	8
+680.00	item_activate	Damage Amplifier	8
+681.06	kill	1	Shock Rifle	4	Enforcer	jolted
+681.64	kill	9	Shock Rifle	1	Shock Rifle	jolted
+682.76	item_get	Shock Rifle	2
+685.11	kill	0	Flak Cannon	8	Double Enforcer	shredded
+685.11	item_deactivate	Damage Amplifier	8
+685.11	item_get	Double Enforcer	0
+686.00	item_get	Sniper Rifle	7
+686.88	item_get	Biosludge Ammo	0
+686.99	item_get	Biosludge Ammo	0
+687.93	item_get	Enforcer	9
+690.03	player	Ping	0	27
+690.03	player	Ping	1	0
+690.03	player	Ping	2	0
+690.03	player	Ping	4	0
+690.03	player	Ping	5	0
+690.03	player	Ping	7	0
+690.03	player	Ping	8	98
+690.03	player	Ping	9	33
+691.48	kill	4	Enforcer	9	Shock Rifle	shot
+691.48	kill	5	Enforcer	1	Enforcer	shot
+691.53	item_get	Shock Rifle	2
+693.10	item_get	Flak Cannon	7
+693.32	item_get	Enforcer	5
+693.38	kill	0	Flak Cannon	2	Shock Rifle	shredded
+693.79	item_get	Shock Rifle	4
+693.90	kill	0	Flak Cannon	4	Enforcer	FlakDeath
+694.32	item_get	MedBox	5
+694.61	item_get	MedBox	5
+695.49	item_get	Shock Core	1
+695.66	kill	0	Flak Cannon	8	Enforcer	shredded
+695.71	item_get	Shock Core	1
+697.33	item_get	Enforcer	1
+700.70	headshot	0	1
+700.70	kill	0	Sniper Rifle	1	Double Enforcer	Decapitated
+700.70	spree	spree_mult	0
+701.03	item_get	Box of Rifle Rounds	7
+701.48	item_get	Flak Cannon	9
+702.20	item_get	Double Enforcer	8
+702.26	headshot	0	8
+702.26	kill	0	Sniper Rifle	8	Double Enforcer	Decapitated
+702.76	item_get	Rocket Launcher	2
+704.04	item_get	Double Enforcer	0
+704.59	item_get	RocketPack	2
+706.15	kill	1	Enforcer	5	Double Enforcer	shot
+706.15	spree	spree_dbl	1
+707.38	item_get	ShieldBelt	4
+707.72	item_get	Flak Shells	4
+708.22	item_get	Flak Shells	4
+709.16	kill	9	Flak Cannon	7	Shock Rifle	FlakDeath
+709.22	item_get	Enforcer	8
+710.50	kill	2	Rocket Launcher	5	Enforcer	RocketDeath
+711.00	item_get	Ripper	4
+711.50	item_get	Shock Rifle	2
+711.89	item_get	Enforcer	2
+712.46	item_get	Flak Cannon	7
+712.52	kill	0	GES Bio Rifle	8	Double Enforcer	Corroded
+712.52	spree	spree_dbl	0
+715.76	item_get	Thigh Pads	2
+716.03	item_get	Double Enforcer	1
+716.78	item_get	Rocket Launcher	9
+716.90	kill	4	Ripper	1	Double Enforcer	RipperAltDeath
+717.74	suicide	0	GES Bio Rifle	Corroded	Self
+718.24	item_get	GES Bio Rifle	4
+719.67	item_get	MedBox	2
+719.89	item_get	Minigun	1
+719.89	item_get	MedBox	2
+720.01	player	Ping	0	26
+720.01	player	Ping	1	0
+720.01	player	Ping	2	0
+720.01	player	Ping	4	0
+720.01	player	Ping	5	0
+720.01	player	Ping	7	0
+720.01	player	Ping	8	90
+720.01	player	Ping	9	45
+720.23	item_get	Sniper Rifle	7
+721.23	item_get	Large Bullets	1
+721.56	item_get	Large Bullets	1
+723.56	kill	8	Enforcer	5	Enforcer	shot
+723.78	item_get	Body Armor	1
+724.06	item_get	RocketPack	1
+724.91	item_get	Enforcer	8
+725.43	kill	9	Rocket Launcher	2	Rocket Launcher	RocketDeath
+725.65	item_get	RocketPack	8
+725.88	kill	0	Enforcer	4	GES Bio Rifle	shot
+726.21	item_get	Double Enforcer	1
+726.33	item_get	Rocket Launcher	7
+728.27	kill	9	Rocket Launcher	7	Rocket Launcher	RocketDeath
+728.93	item_get	GES Bio Rifle	0
+730.09	item_get	Health Vial	0
+730.26	item_get	Health Vial	0
+730.37	item_get	Shock Rifle	5
+730.37	item_get	Health Vial	0
+730.37	item_get	Health Vial	0
+730.59	item_get	Health Vial	0
+731.14	item_get	Shock Core	4
+731.25	item_get	Shock Core	4
+731.86	kill	1	Minigun	8	Double Enforcer	shot
+732.92	item_get	Minigun	2
+733.25	item_get	Rocket Launcher	7
+734.75	kill	9	Flak Cannon	1	Minigun	shredded
+734.75	spree	spree_dbl	9
+734.75	game_end	fraglimit
+734.75	spree	spree_rampage	0
+734.75	
+734.75	stat_player	accuracy	6	0.000000
+734.75	stat_player	score	6	0
+734.75	stat_player	frags	6	0
+734.75	stat_player	kills	6	0
+734.75	stat_player	deaths	6	1
+734.75	stat_player	suicides	6	0
+734.75	stat_player	teamkills	6	0
+734.75	stat_player	efficiency	6	0.000000
+734.75	stat_player	time_on_server	6	19.877337
+734.75	stat_player	ttl	6	18.000000
+734.75	weap_shotcount	Shock Rifle	6	0
+734.75	weap_hitcount	Shock Rifle	6	0
+734.75	weap_damagegiven	Shock Rifle	6	0
+734.75	weap_accuracy	Shock Rifle	6	0.000000
+734.75	stat_player	accuracy	3	28.571430
+734.75	stat_player	score	3	10
+734.75	stat_player	frags	3	10
+734.75	stat_player	kills	3	10
+734.75	stat_player	deaths	3	7
+734.75	stat_player	suicides	3	0
+734.75	stat_player	teamkills	3	0
+734.75	stat_player	efficiency	3	58.823532
+734.75	stat_player	time_on_server	3	149.993561
+734.75	stat_player	ttl	3	21.000000
+734.75	weap_shotcount	Minigun	3	147
+734.75	weap_hitcount	Minigun	3	34
+734.75	weap_damagegiven	Minigun	3	599
+734.75	weap_accuracy	Minigun	3	23.129251
+734.75	weap_shotcount	Sniper Rifle	3	0
+734.75	weap_hitcount	Sniper Rifle	3	1
+734.75	weap_damagegiven	Sniper Rifle	3	10
+734.75	weap_accuracy	Sniper Rifle	3	0.000000
+734.75	weap_shotcount	Shock Rifle	3	11
+734.75	weap_hitcount	Shock Rifle	3	3
+734.75	weap_damagegiven	Shock Rifle	3	230
+734.75	weap_accuracy	Shock Rifle	3	27.272728
+734.75	weap_shotcount	Flak Cannon	3	4
+734.75	weap_hitcount	Flak Cannon	3	7
+734.75	weap_damagegiven	Flak Cannon	3	156
+734.75	weap_accuracy	Flak Cannon	3	175.000000
+734.75	weap_shotcount	Rocket Launcher	3	6
+734.75	weap_hitcount	Rocket Launcher	3	3
+734.75	weap_damagegiven	Rocket Launcher	3	186
+734.75	weap_accuracy	Rocket Launcher	3	50.000000
+734.75	stat_player	accuracy	0	22.638437
+734.75	stat_player	score	0	29
+734.75	stat_player	frags	0	29
+734.75	stat_player	kills	0	32
+734.75	stat_player	deaths	0	17
+734.75	stat_player	suicides	0	3
+734.75	stat_player	teamkills	0	0
+734.75	stat_player	efficiency	0	61.538464
+734.75	stat_player	time_on_server	0	733.812988
+734.75	stat_player	ttl	0	42.176472
+734.75	weap_shotcount	Enforcer	0	183
+734.75	weap_hitcount	Enforcer	0	44
+734.75	weap_damagegiven	Enforcer	0	875
+734.75	weap_accuracy	Enforcer	0	24.043716
+734.75	weap_shotcount	Flak Cannon	0	23
+734.75	weap_hitcount	Flak Cannon	0	34
+734.75	weap_damagegiven	Flak Cannon	0	704
+734.75	weap_accuracy	Flak Cannon	0	147.826080
+734.75	weap_shotcount	Rocket Launcher	0	8
+734.75	weap_hitcount	Rocket Launcher	0	2
+734.75	weap_damagegiven	Rocket Launcher	0	189
+734.75	weap_accuracy	Rocket Launcher	0	25.000000
+734.75	weap_shotcount	Shock Rifle	0	35
+734.75	weap_hitcount	Shock Rifle	0	7
+734.75	weap_damagegiven	Shock Rifle	0	417
+734.75	weap_accuracy	Shock Rifle	0	20.000000
+734.75	weap_shotcount	Pulse Gun	0	6
+734.75	weap_hitcount	Pulse Gun	0	6
+734.75	weap_damagegiven	Pulse Gun	0	120
+734.75	weap_accuracy	Pulse Gun	0	100.000000
+734.75	weap_shotcount	Minigun	0	340
+734.75	weap_hitcount	Minigun	0	42
+734.75	weap_damagegiven	Minigun	0	726
+734.75	weap_accuracy	Minigun	0	12.352942
+734.75	weap_shotcount	GES Bio Rifle	0	10
+734.75	weap_hitcount	GES Bio Rifle	0	2
+734.75	weap_damagegiven	GES Bio Rifle	0	104
+734.75	weap_accuracy	GES Bio Rifle	0	20.000000
+734.75	weap_shotcount	Sniper Rifle	0	8
+734.75	weap_hitcount	Sniper Rifle	0	2
+734.75	weap_damagegiven	Sniper Rifle	0	300
+734.75	weap_accuracy	Sniper Rifle	0	25.000000
+734.75	stat_player	accuracy	1	51.886791
+734.75	stat_player	score	1	29
+734.75	stat_player	frags	1	29
+734.75	stat_player	kills	1	30
+734.75	stat_player	deaths	1	36
+734.75	stat_player	suicides	1	1
+734.75	stat_player	teamkills	1	0
+734.75	stat_player	efficiency	1	44.776119
+734.75	stat_player	time_on_server	1	722.610291
+734.75	stat_player	ttl	1	19.916666
+734.75	weap_shotcount	Impact Hammer	1	0
+734.75	weap_hitcount	Impact Hammer	1	0
+734.75	weap_damagegiven	Impact Hammer	1	90
+734.75	weap_accuracy	Impact Hammer	1	0.000000
+734.75	weap_shotcount	Enforcer	1	0
+734.75	weap_hitcount	Enforcer	1	4
+734.75	weap_damagegiven	Enforcer	1	40
+734.75	weap_accuracy	Enforcer	1	0.000000
+734.75	weap_shotcount	Flak Cannon	1	62
+734.75	weap_hitcount	Flak Cannon	1	60
+734.75	weap_damagegiven	Flak Cannon	1	1087
+734.75	weap_accuracy	Flak Cannon	1	96.774193
+734.75	weap_shotcount	Rocket Launcher	1	8
+734.75	weap_hitcount	Rocket Launcher	1	5
+734.75	weap_damagegiven	Rocket Launcher	1	254
+734.75	weap_accuracy	Rocket Launcher	1	62.500000
+734.75	weap_shotcount	Minigun	1	122
+734.75	weap_hitcount	Minigun	1	31
+734.75	weap_damagegiven	Minigun	1	335
+734.75	weap_accuracy	Minigun	1	25.409836
+734.75	weap_shotcount	Shock Rifle	1	68
+734.75	weap_hitcount	Shock Rifle	1	22
+734.75	weap_damagegiven	Shock Rifle	1	1275
+734.75	weap_accuracy	Shock Rifle	1	32.352943
+734.75	weap_shotcount	Ripper	1	4
+734.75	weap_hitcount	Ripper	1	2
+734.75	weap_damagegiven	Ripper	1	12
+734.75	weap_accuracy	Ripper	1	50.000000
+734.75	weap_shotcount	Sniper Rifle	1	0
+734.75	weap_hitcount	Sniper Rifle	1	7
+734.75	weap_damagegiven	Sniper Rifle	1	130
+734.75	weap_accuracy	Sniper Rifle	1	0.000000
+734.75	weap_shotcount	Pulse Gun	1	54
+734.75	weap_hitcount	Pulse Gun	1	34
+734.75	weap_damagegiven	Pulse Gun	1	264
+734.75	weap_accuracy	Pulse Gun	1	62.962959
+734.75	stat_player	accuracy	2	23.113207
+734.75	stat_player	score	2	21
+734.75	stat_player	frags	2	21
+734.75	stat_player	kills	2	21
+734.75	stat_player	deaths	2	40
+734.75	stat_player	suicides	2	0
+734.75	stat_player	teamkills	2	0
+734.75	stat_player	efficiency	2	34.426231
+734.75	stat_player	time_on_server	2	721.509583
+734.75	stat_player	ttl	2	17.924999
+734.75	weap_shotcount	Impact Hammer	2	0
+734.75	weap_hitcount	Impact Hammer	2	0
+734.75	weap_damagegiven	Impact Hammer	2	90
+734.75	weap_accuracy	Impact Hammer	2	0.000000
+734.75	weap_shotcount	Sniper Rifle	2	5
+734.75	weap_hitcount	Sniper Rifle	2	9
+734.75	weap_damagegiven	Sniper Rifle	2	177
+734.75	weap_accuracy	Sniper Rifle	2	180.000000
+734.75	weap_shotcount	Rocket Launcher	2	25
+734.75	weap_hitcount	Rocket Launcher	2	9
+734.75	weap_damagegiven	Rocket Launcher	2	542
+734.75	weap_accuracy	Rocket Launcher	2	36.000000
+734.75	weap_shotcount	Flak Cannon	2	11
+734.75	weap_hitcount	Flak Cannon	2	19
+734.75	weap_damagegiven	Flak Cannon	2	315
+734.75	weap_accuracy	Flak Cannon	2	172.727280
+734.75	weap_shotcount	Shock Rifle	2	68
+734.75	weap_hitcount	Shock Rifle	2	18
+734.75	weap_damagegiven	Shock Rifle	2	900
+734.75	weap_accuracy	Shock Rifle	2	26.470589
+734.75	weap_shotcount	Minigun	2	512
+734.75	weap_hitcount	Minigun	2	79
+734.75	weap_damagegiven	Minigun	2	877
+734.75	weap_accuracy	Minigun	2	15.429688
+734.75	weap_shotcount	Pulse Gun	2	15
+734.75	weap_hitcount	Pulse Gun	2	13
+734.75	weap_damagegiven	Pulse Gun	2	128
+734.75	weap_accuracy	Pulse Gun	2	86.666664
+734.75	stat_player	accuracy	4	30.000002
+734.75	stat_player	score	4	27
+734.75	stat_player	frags	4	27
+734.75	stat_player	kills	4	28
+734.75	stat_player	deaths	4	27
+734.75	stat_player	suicides	4	1
+734.75	stat_player	teamkills	4	0
+734.75	stat_player	efficiency	4	50.000000
+734.75	stat_player	time_on_server	4	719.352966
+734.75	stat_player	ttl	4	26.555555
+734.75	weap_shotcount	Flak Cannon	4	24
+734.75	weap_hitcount	Flak Cannon	4	22
+734.75	weap_damagegiven	Flak Cannon	4	417
+734.75	weap_accuracy	Flak Cannon	4	91.666672
+734.75	weap_shotcount	Minigun	4	224
+734.75	weap_hitcount	Minigun	4	42
+734.75	weap_damagegiven	Minigun	4	724
+734.75	weap_accuracy	Minigun	4	18.750000
+734.75	weap_shotcount	Pulse Gun	4	1
+734.75	weap_hitcount	Pulse Gun	4	0
+734.75	weap_damagegiven	Pulse Gun	4	0
+734.75	weap_accuracy	Pulse Gun	4	0.000000
+734.75	weap_shotcount	Shock Rifle	4	56
+734.75	weap_hitcount	Shock Rifle	4	21
+734.75	weap_damagegiven	Shock Rifle	4	1205
+734.75	weap_accuracy	Shock Rifle	4	37.500000
+734.75	weap_shotcount	Rocket Launcher	4	13
+734.75	weap_hitcount	Rocket Launcher	4	6
+734.75	weap_damagegiven	Rocket Launcher	4	373
+734.75	weap_accuracy	Rocket Launcher	4	46.153847
+734.75	weap_shotcount	Sniper Rifle	4	4
+734.75	weap_hitcount	Sniper Rifle	4	6
+734.75	weap_damagegiven	Sniper Rifle	4	90
+734.75	weap_accuracy	Sniper Rifle	4	150.000000
+734.75	weap_shotcount	Ripper	4	6
+734.75	weap_hitcount	Ripper	4	2
+734.75	weap_damagegiven	Ripper	4	34
+734.75	weap_accuracy	Ripper	4	33.333336
+734.75	weap_shotcount	GES Bio Rifle	4	2
+734.75	weap_hitcount	GES Bio Rifle	4	0
+734.75	weap_damagegiven	GES Bio Rifle	4	0
+734.75	weap_accuracy	GES Bio Rifle	4	0.000000
+734.75	stat_player	accuracy	5	60.655739
+734.75	stat_player	score	5	23
+734.75	stat_player	frags	5	23
+734.75	stat_player	kills	5	25
+734.75	stat_player	deaths	5	32
+734.75	stat_player	suicides	5	2
+734.75	stat_player	teamkills	5	0
+734.75	stat_player	efficiency	5	42.372883
+734.75	stat_player	time_on_server	5	719.352966
+734.75	stat_player	ttl	5	22.406250
+734.75	weap_shotcount	Shock Rifle	5	41
+734.75	weap_hitcount	Shock Rifle	5	15
+734.75	weap_damagegiven	Shock Rifle	5	1025
+734.75	weap_accuracy	Shock Rifle	5	36.585365
+734.75	weap_shotcount	Flak Cannon	5	52
+734.75	weap_hitcount	Flak Cannon	5	77
+734.75	weap_damagegiven	Flak Cannon	5	1271
+734.75	weap_accuracy	Flak Cannon	5	148.076935
+734.75	weap_shotcount	Ripper	5	11
+734.75	weap_hitcount	Ripper	5	1
+734.75	weap_damagegiven	Ripper	5	20
+734.75	weap_accuracy	Ripper	5	9.090909
+734.75	weap_shotcount	Rocket Launcher	5	17
+734.75	weap_hitcount	Rocket Launcher	5	11
+734.75	weap_damagegiven	Rocket Launcher	5	582
+734.75	weap_accuracy	Rocket Launcher	5	64.705887
+734.75	weap_shotcount	Pulse Gun	5	1
+734.75	weap_hitcount	Pulse Gun	5	0
+734.75	weap_damagegiven	Pulse Gun	5	0
+734.75	weap_accuracy	Pulse Gun	5	0.000000
+734.75	weap_shotcount	Sniper Rifle	5	8
+734.75	weap_hitcount	Sniper Rifle	5	3
+734.75	weap_damagegiven	Sniper Rifle	5	147
+734.75	weap_accuracy	Sniper Rifle	5	37.500000
+734.75	weap_shotcount	Minigun	5	114
+734.75	weap_hitcount	Minigun	5	41
+734.75	weap_damagegiven	Minigun	5	559
+734.75	weap_accuracy	Minigun	5	35.964912
+734.75	stat_player	accuracy	9	29.166666
+734.75	stat_player	score	9	30
+734.75	stat_player	frags	9	30
+734.75	stat_player	kills	9	33
+734.75	stat_player	deaths	9	12
+734.75	stat_player	suicides	9	3
+734.75	stat_player	teamkills	9	0
+734.75	stat_player	efficiency	9	68.750000
+734.75	stat_player	time_on_server	9	570.628174
+734.75	stat_player	ttl	9	47.500000
+734.75	weap_shotcount	Enforcer	9	164
+734.75	weap_hitcount	Enforcer	9	39
+734.75	weap_damagegiven	Enforcer	9	975
+734.75	weap_accuracy	Enforcer	9	23.780487
+734.75	weap_shotcount	Pulse Gun	9	10
+734.75	weap_hitcount	Pulse Gun	9	1
+734.75	weap_damagegiven	Pulse Gun	9	30
+734.75	weap_accuracy	Pulse Gun	9	10.000000
+734.75	weap_shotcount	Rocket Launcher	9	12
+734.75	weap_hitcount	Rocket Launcher	9	5
+734.75	weap_damagegiven	Rocket Launcher	9	509
+734.75	weap_accuracy	Rocket Launcher	9	41.666664
+734.75	weap_shotcount	GES Bio Rifle	9	12
+734.75	weap_hitcount	GES Bio Rifle	9	5
+734.75	weap_damagegiven	GES Bio Rifle	9	862
+734.75	weap_accuracy	GES Bio Rifle	9	41.666664
+734.75	weap_shotcount	Flak Cannon	9	39
+734.75	weap_hitcount	Flak Cannon	9	31
+734.75	weap_damagegiven	Flak Cannon	9	604
+734.75	weap_accuracy	Flak Cannon	9	79.487183
+734.75	weap_shotcount	Minigun	9	62
+734.75	weap_hitcount	Minigun	9	7
+734.75	weap_damagegiven	Minigun	9	116
+734.75	weap_accuracy	Minigun	9	11.290322
+734.75	weap_shotcount	Shock Rifle	9	37
+734.75	weap_hitcount	Shock Rifle	9	10
+734.75	weap_damagegiven	Shock Rifle	9	720
+734.75	weap_accuracy	Shock Rifle	9	27.027025
+734.75	weap_shotcount	Impact Hammer	9	0
+734.75	weap_hitcount	Impact Hammer	9	0
+734.75	weap_damagegiven	Impact Hammer	9	0
+734.75	weap_accuracy	Impact Hammer	9	0.000000
+734.75	stat_player	accuracy	7	31.566820
+734.75	stat_player	score	7	27
+734.75	stat_player	frags	7	27
+734.75	stat_player	kills	7	27
+734.75	stat_player	deaths	7	30
+734.75	stat_player	suicides	7	0
+734.75	stat_player	teamkills	7	0
+734.75	stat_player	efficiency	7	47.368423
+734.75	stat_player	time_on_server	7	719.352966
+734.75	stat_player	ttl	7	23.900000
+734.75	weap_shotcount	Minigun	7	267
+734.75	weap_hitcount	Minigun	7	56
+734.75	weap_damagegiven	Minigun	7	729
+734.75	weap_accuracy	Minigun	7	20.973782
+734.75	weap_shotcount	Ripper	7	29
+734.75	weap_hitcount	Ripper	7	4
+734.75	weap_damagegiven	Ripper	7	70
+734.75	weap_accuracy	Ripper	7	13.793103
+734.75	weap_shotcount	Pulse Gun	7	25
+734.75	weap_hitcount	Pulse Gun	7	13
+734.75	weap_damagegiven	Pulse Gun	7	120
+734.75	weap_accuracy	Pulse Gun	7	52.000000
+734.75	weap_shotcount	Shock Rifle	7	77
+734.75	weap_hitcount	Shock Rifle	7	23
+734.75	weap_damagegiven	Shock Rifle	7	1311
+734.75	weap_accuracy	Shock Rifle	7	29.870129
+734.75	weap_shotcount	Flak Cannon	7	23
+734.75	weap_hitcount	Flak Cannon	7	34
+734.75	weap_damagegiven	Flak Cannon	7	627
+734.75	weap_accuracy	Flak Cannon	7	147.826080
+734.75	weap_shotcount	Rocket Launcher	7	13
+734.75	weap_hitcount	Rocket Launcher	7	7
+734.75	weap_damagegiven	Rocket Launcher	7	175
+734.75	weap_accuracy	Rocket Launcher	7	53.846157
+734.75	weap_shotcount	Impact Hammer	7	0
+734.75	weap_hitcount	Impact Hammer	7	0
+734.75	weap_damagegiven	Impact Hammer	7	0
+734.75	weap_accuracy	Impact Hammer	7	0.000000
+734.75	stat_player	accuracy	8	22.096317
+734.75	stat_player	score	8	16
+734.75	stat_player	frags	8	16
+734.75	stat_player	kills	8	18
+734.75	stat_player	deaths	8	22
+734.75	stat_player	suicides	8	2
+734.75	stat_player	teamkills	8	0
+734.75	stat_player	efficiency	8	42.857143
+734.75	stat_player	time_on_server	8	699.976196
+734.75	stat_player	ttl	8	31.772728
+734.75	weap_shotcount	Enforcer	8	198
+734.75	weap_hitcount	Enforcer	8	50
+734.75	weap_damagegiven	Enforcer	8	1030
+734.75	weap_accuracy	Enforcer	8	25.252523
+734.75	weap_shotcount	Shock Rifle	8	88
+734.75	weap_hitcount	Shock Rifle	8	15
+734.75	weap_damagegiven	Shock Rifle	8	867
+734.75	weap_accuracy	Shock Rifle	8	17.045454
+734.75	weap_shotcount	Pulse Gun	8	24
+734.75	weap_hitcount	Pulse Gun	8	3
+734.75	weap_damagegiven	Pulse Gun	8	90
+734.75	weap_accuracy	Pulse Gun	8	12.500000
+734.75	weap_shotcount	Rocket Launcher	8	3
+734.75	weap_hitcount	Rocket Launcher	8	2
+734.75	weap_damagegiven	Rocket Launcher	8	170
+734.75	weap_accuracy	Rocket Launcher	8	66.666672
+734.75	weap_shotcount	Flak Cannon	8	25
+734.75	weap_hitcount	Flak Cannon	8	6
+734.75	weap_damagegiven	Flak Cannon	8	96
+734.75	weap_accuracy	Flak Cannon	8	24.000000
+734.75	weap_shotcount	GES Bio Rifle	8	15
+734.75	weap_hitcount	GES Bio Rifle	8	2
+734.75	weap_damagegiven	GES Bio Rifle	8	204
+734.75	weap_accuracy	GES Bio Rifle	8	13.333334

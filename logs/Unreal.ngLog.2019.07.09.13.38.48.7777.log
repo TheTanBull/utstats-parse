@@ -1,0 +1,1574 @@
+0.00	info	Log_Standard	UTStats
+0.00	info	Log_Version	0.4.2
+0.00	info	Game_Name	Unreal
+0.00	info	Game_Version	436
+0.00	info	Absolute_Time	2019.07.09.13.38.48.210.-4.0
+0.00	info	utglenabled	False
+0.00	game	insta	False
+0.00	info	True_Server_IP	10.0.75.1
+0.00	info	Server_ServerName	Another UT Server
+0.00	info	Server_AdminName	
+0.00	info	Server_AdminEmail	
+0.00	info	Server_Region	0
+0.00	info	Server_MOTDLine1	
+0.00	info	Server_MOTDLine2	
+0.00	info	Server_MOTDLine3	
+0.00	info	Server_MOTDLine4	
+0.00	info	Server_IP	0.0.0.0
+0.00	info	Server_Port	7777
+0.00	map	Name	DM-Codex.unr
+0.00	map	Title	Codex of Wisdom
+0.00	map	Author	Cliff Bleszinski
+0.00	map	IdealPlayerCount	2-8
+0.00	map	LevelEnterText	
+0.00	game	GameName	Tournament DeathMatch
+0.00	game	GameClass	Botpack.DeathMatchPlus
+0.00	game	GameVersion	436
+0.00	game	MinNetVersion	400
+0.00	game	NoMonsters	True
+0.00	game	MuteSpectators	False
+0.00	game	HumansOnly	False
+0.00	game	WeaponsStay	True
+0.00	game	ClassicDeathmessages	False
+0.00	game	LowGore	False
+0.00	game	VeryLowGore	False
+0.00	game	TeamGame	False
+0.00	game	GameSpeed	100
+0.00	game	MaxSpectators	2
+0.00	game	MaxPlayers	16
+0.00	game	FragLimit	30
+0.00	game	TimeLimit	0
+0.00	game	MultiPlayerBots	True
+0.00	game	HardCore	True
+0.00	game	MegaSpeed	False
+0.00	game	AirControl	0.350000
+0.00	game	JumpMatch	False
+0.00	game	UseTranslocator	False
+0.00	game	TournamentMode	False
+0.00	game	NetMode	DedicatedServer
+30.05	game	realstart
+445.94	player	Rename	John	0
+445.94	player	Teamchange	0	255
+445.94	player	Connect	John	0	False
+445.94	player	TeamName	0	
+445.94	player	Team	0	255
+445.94	player	TeamID	0	0
+445.94	player	Ping	0	0
+445.94	player	IsABot	0	False
+445.94	player	Skill	0	1.000000
+446.00	player	IP	0	10.0.75.1
+450.03	player	Ping	0	130308
+457.59	player	Rename	Raynor	1
+457.59	player	Connect	Raynor	1	False
+457.59	player	TeamName	1	
+457.59	player	Team	1	255
+457.59	player	TeamID	1	0
+457.59	player	Ping	1	0
+457.59	player	IsABot	1	True
+457.59	player	Skill	1	1.000000
+457.65	player	IP	1	0.0.0.0
+458.64	player	Rename	Zenith	2
+458.64	player	Connect	Zenith	2	False
+458.64	player	TeamName	2	
+458.64	player	Team	2	1
+458.64	player	TeamID	2	0
+458.64	player	Ping	2	0
+458.64	player	IsABot	2	True
+458.64	player	Skill	2	1.000000
+458.70	player	IP	2	0.0.0.0
+459.74	player	Rename	Tamerlane	3
+459.74	player	Connect	Tamerlane	3	False
+459.74	player	TeamName	3	
+459.74	player	Team	3	255
+459.74	player	TeamID	3	0
+459.74	player	Ping	3	0
+459.74	player	IsABot	3	True
+459.74	player	Skill	3	1.000000
+459.80	player	IP	3	0.0.0.0
+460.85	player	Rename	Kosak	4
+460.85	player	Connect	Kosak	4	False
+460.85	player	TeamName	4	
+460.85	player	Team	4	255
+460.85	player	TeamID	4	0
+460.85	player	Ping	4	0
+460.85	player	IsABot	4	True
+460.85	player	Skill	4	1.000000
+460.85	player	Rename	Cryss	5
+460.85	player	Connect	Cryss	5	False
+460.85	player	TeamName	5	
+460.85	player	Team	5	255
+460.85	player	TeamID	5	0
+460.85	player	Ping	5	0
+460.85	player	IsABot	5	True
+460.85	player	Skill	5	1.000000
+460.85	player	Rename	Dessloch	6
+460.85	player	Connect	Dessloch	6	False
+460.85	player	TeamName	6	
+460.85	player	Team	6	1
+460.85	player	TeamID	6	0
+460.85	player	Ping	6	0
+460.85	player	IsABot	6	True
+460.85	player	Skill	6	1.000000
+460.85	player	Rename	Drimacus	7
+460.85	player	Connect	Drimacus	7	False
+460.85	player	TeamName	7	
+460.85	player	Team	7	255
+460.85	player	TeamID	7	0
+460.85	player	Ping	7	0
+460.85	player	IsABot	7	True
+460.85	player	Skill	7	1.000000
+460.85	game_start
+460.90	player	IP	4	0.0.0.0
+460.96	player	IP	5	0.0.0.0
+461.01	player	IP	6	0.0.0.0
+461.07	player	IP	7	0.0.0.0
+462.78	item_get	Sniper Rifle	3
+463.33	item_get	Box of Rifle Rounds	3
+465.10	item_get	Flak Cannon	7
+465.32	item_get	Flak Shells	7
+465.38	item_get	Shock Rifle	0
+466.81	item_get	Pulse Gun	2
+466.87	item_get	Biosludge Ammo	5
+466.92	item_get	Biosludge Ammo	5
+467.03	item_get	Pulse Cell	2
+467.20	item_get	Pulse Cell	2
+468.03	item_get	GES Bio Rifle	5
+469.25	item_get	Shock Rifle	1
+469.63	item_get	Shock Core	1
+469.69	item_get	Pulse Gun	4
+470.62	item_get	ShieldBelt	7
+470.68	kill	2	Pulse Gun	6	Impact Hammer	zapped
+470.68	first_blood	2
+471.75	kill	2	Pulse Gun	4	Pulse Gun	zapped
+474.20	item_get	Pulse Gun	2
+474.32	kill	7	Flak Cannon	3	Sniper Rifle	FlakDeath
+476.28	item_get	Flak Cannon	6
+477.49	item_get	Sniper Rifle	3
+478.97	item_get	Ripper	5
+479.87	item_get	Minigun	2
+480.04	player	Ping	0	26
+480.04	player	Ping	1	0
+480.04	player	Ping	2	0
+480.04	player	Ping	3	0
+480.04	player	Ping	4	0
+480.04	player	Ping	5	0
+480.04	player	Ping	6	0
+480.04	player	Ping	7	0
+480.37	item_get	Large Bullets	2
+480.37	kill	3	Sniper Rifle	0	Shock Rifle	shot
+481.65	item_get	GES Bio Rifle	4
+482.44	kill	3	Sniper Rifle	5	Ripper	shot
+482.83	item_get	MedBox	7
+484.61	item_get	MedBox	7
+486.24	item_get	Ripper	4
+486.41	item_get	Shock Rifle	2
+486.63	item_get	Sniper Rifle	5
+486.74	typing	True	0
+489.40	item_get	Minigun	1
+489.97	item_get	Pulse Gun	5
+490.02	item_get	MedBox	3
+490.29	item_get	MedBox	3
+492.32	kill	2	Minigun	1	Minigun	shot
+492.32	spree	spree_dbl	2
+492.50	kill	3	Sniper Rifle	4	Ripper	shot
+492.50	spree	spree_dbl	3
+494.88	item_get	Body Armor	5
+495.07	item_get	Ripper	3
+495.98	item_get	MedBox	2
+498.14	item_get	Shock Core	1
+498.21	item_get	Shock Rifle	6
+498.61	item_get	RocketPack	1
+499.04	kill	5	Pulse Gun	2	Minigun	zapped
+500.32	item_get	Flak Shells	6
+501.38	item_get	Biosludge Ammo	4
+501.44	item_get	Biosludge Ammo	4
+502.16	item_get	Minigun	5
+502.29	kill	3	Sniper Rifle	7	Flak Cannon	shot
+502.55	item_get	GES Bio Rifle	4
+502.93	item_get	Ripper	6
+504.69	item_get	Sniper Rifle	2
+505.20	item_get	Flak Cannon	1
+505.32	item_get	Box of Rifle Rounds	2
+505.43	item_get	Flak Shells	1
+506.91	item_get	Shock Rifle	5
+507.27	item_get	Shock Core	5
+507.40	item_get	RocketPack	7
+507.89	item_get	MedBox	3
+508.47	item_get	Health Vial	1
+508.53	item_get	Health Vial	1
+508.53	item_get	Health Vial	1
+508.59	kill	6	Shock Rifle	2	Sniper Rifle	jolted
+509.68	item_get	MedBox	3
+510.01	player	Ping	0	27
+510.01	player	Ping	1	0
+510.01	player	Ping	2	0
+510.01	player	Ping	3	0
+510.01	player	Ping	4	0
+510.01	player	Ping	5	0
+510.01	player	Ping	6	0
+510.01	player	Ping	7	0
+511.55	item_get	Pulse Gun	7
+511.81	item_get	Pulse Cell	7
+511.95	item_get	Pulse Cell	7
+512.50	item_get	Minigun	5
+512.56	item_get	Ripper	4
+512.93	item_get	MedBox	5
+516.06	item_get	Sniper Rifle	6
+516.62	kill	4	Ripper	6	Flak Cannon	shredded
+517.01	item_get	Rocket Launcher	2
+517.77	item_get	Shock Rifle	3
+517.99	item_get	RocketPack	1
+519.06	kill	7	Pulse Gun	1	Flak Cannon	zapped
+519.45	item_get	Flak Cannon	4
+520.22	item_get	Flak Cannon	7
+521.29	item_get	Sniper Rifle	4
+522.01	item_get	MedBox	4
+522.29	item_get	MedBox	4
+523.29	item_get	Large Bullets	3
+523.62	item_get	Minigun	3
+524.23	suicide	2	Rocket Launcher	RocketDeath	Self
+524.23	kill	2	None	7	Flak Cannon	RocketDeath
+525.06	item_get	GES Bio Rifle	6
+525.45	kill	5	Minigun	0	Enforcer	shot
+525.73	item_get	Blade Hopper	4
+526.34	item_get	Body Armor	5
+528.77	kill	3	Minigun	7	Enforcer	shot
+529.88	item_get	Flak Cannon	1
+530.66	item_get	Ripper	6
+533.25	item_get	Rocket Launcher	5
+533.75	item_get	ShieldBelt	1
+533.97	kill	5	Minigun	4	Sniper Rifle	shot
+534.08	item_get	GES Bio Rifle	2
+534.47	item_get	Enforcer	7
+535.07	item_get	Biosludge Ammo	2
+535.62	item_get	Sniper Rifle	6
+536.23	item_get	Box of Rifle Rounds	6
+536.28	item_get	Biosludge Ammo	2
+536.34	kill	3	Minigun	7	Double Enforcer	shot
+537.66	item_get	Large Bullets	6
+540.03	player	Ping	0	25
+540.03	player	Ping	1	0
+540.03	player	Ping	2	0
+540.03	player	Ping	3	0
+540.03	player	Ping	4	0
+540.03	player	Ping	5	0
+540.03	player	Ping	6	0
+540.03	player	Ping	7	0
+540.31	item_get	Flak Cannon	5
+542.32	kill	1	Flak Cannon	2	GES Bio Rifle	FlakDeath
+542.66	item_get	Flak Cannon	4
+544.04	item_get	Sniper Rifle	6
+544.04	item_get	GES Bio Rifle	7
+544.70	item_get	Ripper	1
+546.37	kill	3	Minigun	6	GES Bio Rifle	shot
+548.13	item_get	Pulse Gun	3
+548.36	item_get	Pulse Cell	3
+548.52	item_get	Pulse Cell	3
+549.52	item_get	Minigun	4
+549.63	item_get	GES Bio Rifle	1
+550.18	item_get	GES Bio Rifle	3
+551.28	kill	5	Rocket Launcher	7	GES Bio Rifle	RocketDeath
+551.39	item_get	Shock Rifle	2
+551.78	item_get	Shock Core	2
+555.81	kill	5	Flak Cannon	1	GES Bio Rifle	shredded
+555.86	item_get	GES Bio Rifle	5
+556.31	item_get	Flak Cannon	3
+556.64	item_get	Flak Shells	3
+556.86	item_get	GES Bio Rifle	6
+558.30	kill	4	Flak Cannon	2	Shock Rifle	shredded
+559.57	item_get	Sniper Rifle	7
+560.57	item_get	Shock Rifle	4
+560.85	kill	5	Flak Cannon	6	GES Bio Rifle	FlakDeath
+561.45	item_get	Enforcer	1
+563.31	item_get	RocketPack	2
+563.58	item_get	Double Enforcer	4
+564.31	kill	5	Flak Cannon	7	Sniper Rifle	shredded
+564.69	item_get	Flak Cannon	6
+565.58	item_get	Ripper	5
+567.03	item_get	Sniper Rifle	5
+568.48	item_get	Body Armor	1
+569.81	kill	1	Double Enforcer	2	Enforcer	shot
+570.03	player	Ping	0	25
+570.03	player	Ping	1	0
+570.03	player	Ping	2	0
+570.03	player	Ping	3	0
+570.03	player	Ping	4	0
+570.03	player	Ping	5	0
+570.03	player	Ping	6	0
+570.03	player	Ping	7	0
+573.67	kill	3	Minigun	5	Minigun	shot
+573.67	spree	spree_kill	5
+573.84	item_get	GES Bio Rifle	7
+574.34	item_get	Pulse Gun	1
+574.67	item_get	Biosludge Ammo	7
+574.78	item_get	Biosludge Ammo	7
+576.96	kill	6	Flak Cannon	3	Minigun	shredded
+576.96	spree	spree_kill	3
+579.78	item_get	GES Bio Rifle	2
+580.06	item_get	Minigun	6
+581.49	item_get	Rocket Launcher	3
+581.93	item_get	Flak Cannon	1
+582.88	item_get	Ripper	7
+585.50	kill	4	Shock Rifle	1	Pulse Gun	jolted
+586.75	item_get	Pulse Gun	4
+586.98	item_get	Pulse Cell	4
+587.15	item_get	Pulse Cell	4
+587.99	item_get	Minigun	7
+588.15	item_get	Enforcer	3
+588.32	item_get	GES Bio Rifle	5
+589.59	item_get	Sniper Rifle	7
+589.76	typing	False	0
+590.53	kill	4	Pulse Gun	3	Impact Hammer	zapped
+590.70	item_get	Box of Rifle Rounds	7
+590.98	kill	6	Flak Cannon	4	Pulse Gun	FlakDeath
+592.19	item_get	Ripper	2
+592.63	item_get	Pulse Gun	1
+594.69	kill	6	Flak Cannon	1	Pulse Gun	FlakDeath
+594.91	item_get	Shock Core	4
+595.41	item_get	RocketPack	4
+596.75	item_get	Pulse Gun	1
+596.75	item_get	Pulse Gun	6
+597.36	item_get	GES Bio Rifle	3
+598.41	item_get	Flak Cannon	1
+598.74	item_get	Flak Shells	1
+599.63	kill	7	GES Bio Rifle	6	Minigun	Corroded
+600.02	player	Ping	0	25
+600.02	player	Ping	1	0
+600.02	player	Ping	2	0
+600.02	player	Ping	3	0
+600.02	player	Ping	4	0
+600.02	player	Ping	5	0
+600.02	player	Ping	6	0
+600.02	player	Ping	7	0
+601.52	suicide	5	GES Bio Rifle	Corroded	Self
+602.24	item_get	Flak Cannon	4
+603.57	item_get	Health Vial	1
+603.62	item_get	Health Vial	1
+603.68	item_get	Health Vial	1
+603.79	kill	3	GES Bio Rifle	2	Ripper	Corroded
+604.56	item_get	Large Bullets	0
+606.11	item_get	ShieldBelt	4
+606.22	item_get	Minigun	0
+606.38	item_get	Ripper	3
+606.44	item_get	RocketPack	7
+607.05	item_get	Shock Rifle	5
+607.16	kill	1	Pulse Gun	7	Minigun	zapped
+607.44	item_get	Shock Core	5
+607.60	item_get	Minigun	6
+608.38	item_get	Biosludge Ammo	3
+608.49	item_get	Biosludge Ammo	3
+608.82	kill	4	Flak Cannon	1	Pulse Gun	FlakDeath
+610.04	item_get	GES Bio Rifle	2
+610.77	item_get	Pulse Gun	6
+611.38	item_get	Pulse Gun	4
+613.39	player	Rename	Jeff	8
+613.39	player	Teamchange	8	2
+613.39	player	Connect	Jeff	8	False
+613.39	player	TeamName	8	
+613.39	player	Team	8	2
+613.39	player	TeamID	8	0
+613.39	player	Ping	8	0
+613.39	player	IsABot	8	False
+613.39	player	Skill	8	1.000000
+613.45	player	IP	8	192.168.1.165
+613.62	item_get	MedBox	3
+615.18	item_get	Flak Cannon	7
+615.35	item_get	MedBox	3
+615.63	item_get	Pulse Gun	1
+615.91	kill	4	Pulse Gun	6	Minigun	Pulsed
+615.91	player	Disconnect	6
+616.02	item_get	Ripper	2
+617.19	item_get	Minigun	1
+618.09	kill	4	Flak Cannon	1	Minigun	shredded
+619.75	item_get	Sniper Rifle	2
+619.81	item_get	Minigun	5
+622.27	item_get	Box of Rifle Rounds	2
+622.62	item_get	Minigun	4
+622.85	item_get	Ripper	7
+623.25	item_get	Flak Cannon	1
+623.71	item_get	Large Bullets	2
+624.10	item_get	Shock Rifle	3
+626.52	kill	2	GES Bio Rifle	7	Flak Cannon	Corroded
+627.68	item_get	MedBox	5
+627.92	item_get	MedBox	5
+630.01	player	Ping	0	26
+630.01	player	Ping	1	0
+630.01	player	Ping	2	0
+630.01	player	Ping	3	0
+630.01	player	Ping	4	0
+630.01	player	Ping	5	0
+630.01	player	Ping	7	0
+630.01	player	Ping	8	73
+631.00	item_get	Ripper	1
+632.62	item_get	Body Armor	4
+633.56	kill	3	Shock Rifle	0	Impact Hammer	jolted
+634.78	item_get	Sniper Rifle	1
+634.84	item_get	GES Bio Rifle	7
+634.89	item_get	Flak Cannon	1
+636.10	item_get	Pulse Gun	2
+636.32	item_get	Pulse Cell	2
+636.49	item_get	Pulse Cell	2
+639.82	item_get	Flak Cannon	0
+639.93	kill	3	Shock Rifle	5	Shock Rifle	jolted
+640.60	item_get	Ripper	7
+641.21	item_get	Flak Shells	0
+642.99	item_get	Shock Rifle	4
+643.05	item_get	Shock Core	1
+643.33	item_get	Shock Rifle	1
+644.32	item_get	Sniper Rifle	7
+644.55	item_get	Minigun	3
+644.88	item_get	Large Bullets	3
+646.66	kill	1	Shock Rifle	4	Minigun	jolted
+647.21	kill	0	Flak Cannon	2	Pulse Gun	shredded
+649.60	item_get	GES Bio Rifle	5
+650.44	item_get	Biosludge Ammo	5
+650.55	item_get	Biosludge Ammo	5
+651.43	item_get	MedBox	3
+651.66	item_get	MedBox	3
+651.99	item_get	RocketPack	2
+652.04	item_get	Minigun	1
+652.54	item_get	MedBox	8
+652.88	item_get	Shock Rifle	7
+655.38	item_get	Pulse Gun	4
+656.01	item_get	Ripper	5
+657.05	kill	3	Minigun	1	Minigun	shot
+659.28	kill	3	Minigun	7	Shock Rifle	shot
+659.78	item_get	Sniper Rifle	5
+660.00	player	Ping	0	25
+660.00	player	Ping	1	0
+660.00	player	Ping	2	0
+660.00	player	Ping	3	0
+660.00	player	Ping	4	0
+660.00	player	Ping	5	0
+660.00	player	Ping	7	0
+660.00	player	Ping	8	56
+660.39	item_get	Box of Rifle Rounds	5
+660.97	item_get	Blade Hopper	0
+661.64	kill	4	Pulse Gun	0	Flak Cannon	Pulsed
+661.64	spree	spree_dbl	4
+661.75	item_get	Large Bullets	5
+661.81	item_get	GES Bio Rifle	1
+663.70	item_get	MedBox	8
+663.92	item_get	Pulse Gun	2
+666.25	kill	2	Pulse Gun	4	Pulse Gun	zapped
+666.41	item_get	Sniper Rifle	7
+668.79	item_get	Minigun	5
+669.58	item_get	Body Armor	3
+669.99	item_get	Ripper	1
+670.49	item_get	Flak Cannon	7
+670.60	item_get	Minigun	8
+670.82	item_get	Rocket Launcher	4
+670.88	item_get	Minigun	8
+671.39	item_get	Shock Rifle	2
+673.00	item_get	ShieldBelt	1
+673.22	item_get	Ripper	7
+673.55	item_get	Pulse Gun	5
+674.55	item_get	Pulse Gun	3
+674.77	item_get	Pulse Cell	3
+674.94	item_get	Pulse Cell	3
+676.82	kill	1	Ripper	7	Ripper	shredded
+677.93	kill	3	Minigun	5	Minigun	shot
+677.93	spree	spree_dbl	3
+679.42	item_get	Ripper	7
+680.29	item_get	Sniper Rifle	7
+682.57	kill	8	Minigun	2	Shock Rifle	shot
+683.24	item_get	Flak Cannon	1
+683.96	item_get	Minigun	1
+685.97	item_get	Biosludge Ammo	5
+686.02	item_get	Biosludge Ammo	5
+686.19	item_get	RocketPack	1
+687.15	item_get	GES Bio Rifle	5
+688.49	item_get	Shock Core	7
+688.84	item_get	Shock Rifle	7
+688.95	item_get	Large Bullets	0
+689.62	item_get	Minigun	0
+690.01	player	Ping	0	26
+690.01	player	Ping	1	0
+690.01	player	Ping	2	0
+690.01	player	Ping	3	0
+690.01	player	Ping	4	0
+690.01	player	Ping	5	0
+690.01	player	Ping	7	0
+690.01	player	Ping	8	119
+690.01	item_get	Flak Cannon	3
+690.07	kill	4	Rocket Launcher	8	Minigun	RocketDeath
+690.18	item_get	RocketPack	2
+690.34	item_get	Flak Shells	3
+692.89	item_get	Ripper	5
+694.98	item_get	Pulse Gun	2
+696.65	item_get	Sniper Rifle	5
+696.71	item_get	Minigun	7
+697.21	item_get	Box of Rifle Rounds	5
+698.67	item_get	Pulse Gun	4
+698.78	item_get	Large Bullets	5
+700.19	item_get	MedBox	3
+700.69	kill	4	Pulse Gun	2	Pulse Gun	zapped
+701.54	item_get	Pulse Gun	4
+701.99	item_get	MedBox	3
+705.43	kill	1	Minigun	3	Flak Cannon	shot
+705.43	spree	spree_kill	3
+705.54	kill	8	Enforcer	0	Minigun	shot
+706.21	item_get	Rocket Launcher	2
+706.82	item_get	Flak Cannon	4
+707.10	item_get	Pulse Gun	7
+709.47	item_get	Pulse Cell	7
+709.92	item_get	Flak Cannon	8
+710.14	item_get	Pulse Gun	5
+710.20	kill	1	Minigun	4	Pulse Gun	shot
+710.60	kill	7	Minigun	5	Pulse Gun	shot
+710.71	item_get	Pulse Cell	7
+711.26	item_get	Pulse Gun	7
+713.60	item_get	Pulse Gun	1
+713.82	kill	7	Minigun	2	Rocket Launcher	shot
+713.99	item_get	Minigun	8
+716.20	item_get	Minigun	0
+716.86	item_get	Pulse Gun	3
+717.75	item_get	Sniper Rifle	5
+718.09	kill	1	Minigun	3	Pulse Gun	shot
+718.20	item_get	Rocket Launcher	4
+719.20	item_get	Large Bullets	0
+719.42	item_get	Shock Core	2
+719.58	item_get	Rocket Launcher	7
+719.92	item_get	RocketPack	2
+720.03	player	Ping	0	25
+720.03	player	Ping	1	0
+720.03	player	Ping	2	0
+720.03	player	Ping	3	0
+720.03	player	Ping	4	0
+720.03	player	Ping	5	0
+720.03	player	Ping	7	0
+720.03	player	Ping	8	59
+721.14	item_get	Body Armor	7
+721.31	item_get	Ripper	5
+722.59	kill	1	Minigun	7	Rocket Launcher	shot
+723.30	item_get	RocketPack	4
+726.05	item_get	Pulse Gun	4
+726.40	item_get	Biosludge Ammo	5
+726.51	item_get	Biosludge Ammo	5
+726.68	item_get	Flak Cannon	2
+727.71	item_get	GES Bio Rifle	5
+727.88	item_get	Shock Rifle	1
+727.88	item_get	Pulse Gun	3
+728.29	item_get	Shock Core	1
+728.70	item_get	Flak Shells	2
+729.16	item_get	RocketPack	7
+729.34	kill	8	Flak Cannon	0	Minigun	shredded
+731.00	item_get	Shock Rifle	4
+731.28	kill	1	Minigun	4	Rocket Launcher	shot
+732.00	item_get	Minigun	8
+732.78	kill	3	Pulse Gun	7	Enforcer	Pulsed
+733.84	item_get	Sniper Rifle	4
+734.45	item_get	Box of Rifle Rounds	4
+735.13	item_get	Enforcer	3
+735.97	item_get	ShieldBelt	2
+736.19	item_get	Rocket Launcher	8
+738.30	item_get	MedBox	1
+738.52	item_get	Rocket Launcher	8
+739.08	item_get	MedBox	1
+740.85	item_get	Flak Cannon	7
+741.46	suicide	1	GES Bio Rifle	Corroded	Self
+741.46	item_get	GES Bio Rifle	8
+745.04	suicide	0	Enforcer	Burned	None
+748.62	item_get	Pulse Gun	2
+748.67	kill	4	Sniper Rifle	5	Ripper	shot
+748.73	item_get	Ripper	7
+748.84	item_get	Pulse Cell	2
+749.00	item_get	Pulse Cell	2
+749.06	item_get	GES Bio Rifle	1
+750.00	player	Ping	0	25
+750.00	player	Ping	1	0
+750.00	player	Ping	2	0
+750.00	player	Ping	3	0
+750.00	player	Ping	4	0
+750.00	player	Ping	5	0
+750.00	player	Ping	7	0
+750.00	player	Ping	8	65
+751.44	item_get	Flak Cannon	3
+752.94	item_get	Body Armor	0
+753.27	item_get	Sniper Rifle	7
+754.77	item_get	Ripper	1
+754.88	item_get	Rocket Launcher	5
+755.99	kill	7	Flak Cannon	4	Sniper Rifle	shredded
+758.75	item_get	Sniper Rifle	1
+758.92	item_get	Ripper	3
+759.77	item_get	Large Bullets	7
+760.10	item_get	RocketPack	5
+762.42	item_get	Shock Rifle	0
+762.64	item_get	Shock Core	0
+763.81	kill	2	Flak Cannon	3	Pulse Gun	shredded
+764.14	item_get	Shock Rifle	8
+764.20	item_get	Pulse Gun	5
+764.53	kill	1	Sniper Rifle	2	Flak Cannon	shot
+765.65	item_get	GES Bio Rifle	4
+766.48	item_get	Biosludge Ammo	4
+766.54	kill	1	Sniper Rifle	7	Flak Cannon	shot
+766.60	item_get	Biosludge Ammo	4
+767.85	item_get	MedBox	1
+768.14	item_get	MedBox	1
+769.54	item_get	Box of Rifle Rounds	1
+770.33	item_get	Rocket Launcher	7
+770.94	item_get	Flak Cannon	1
+772.15	item_get	Ripper	4
+773.35	item_get	GES Bio Rifle	2
+774.93	kill	8	Rocket Launcher	0	Shock Rifle	RocketDeath
+774.99	item_get	Pulse Gun	3
+776.10	item_get	Sniper Rifle	4
+776.37	kill	5	Rocket Launcher	3	Pulse Gun	RocketDeath
+777.47	item_get	Shock Rifle	1
+778.19	kill	8	Rocket Launcher	1	Flak Cannon	RocketDeath
+778.19	spree	spree_kill	1
+778.19	suicide	8	Rocket Launcher	RocketDeath	Self
+779.02	item_get	Ripper	2
+780.02	player	Ping	0	25
+780.02	player	Ping	1	0
+780.02	player	Ping	2	0
+780.02	player	Ping	3	0
+780.02	player	Ping	4	0
+780.02	player	Ping	5	0
+780.02	player	Ping	7	0
+780.02	player	Ping	8	154
+780.24	suicide	7	Rocket Launcher	RocketDeath	Self
+783.16	item_get	RocketPack	5
+783.67	item_get	Flak Cannon	4
+784.78	item_get	Shock Rifle	4
+784.89	item_get	Shock Core	8
+785.40	item_get	RocketPack	8
+786.83	item_get	Rocket Launcher	3
+786.88	item_get	Shock Rifle	3
+787.27	item_get	Body Armor	1
+787.82	item_get	Flak Cannon	5
+788.15	item_get	Flak Shells	5
+788.42	kill	4	Flak Cannon	3	Shock Rifle	shredded
+788.53	item_get	MedBox	0
+789.48	item_get	Shock Rifle	4
+791.15	item_get	Health Vial	5
+791.20	item_get	Health Vial	5
+791.20	item_get	Health Vial	5
+792.04	item_get	Pulse Gun	7
+792.09	item_get	Rocket Launcher	7
+792.26	item_get	Pulse Gun	1
+792.26	item_get	Pulse Cell	7
+792.32	item_get	Pulse Cell	7
+792.49	item_get	Pulse Gun	1
+793.66	item_get	Large Bullets	4
+793.89	suicide	7	Rocket Launcher	RocketDeath	Self
+794.06	item_get	Minigun	4
+794.39	item_get	Shock Core	2
+794.61	item_get	Shock Rifle	2
+795.83	item_get	Rocket Launcher	1
+796.67	item_get	Shock Rifle	3
+796.78	item_get	ShieldBelt	5
+797.00	item_get	RocketPack	7
+797.72	kill	8	Enforcer	0	Enforcer	shot
+798.33	kill	4	Flak Cannon	3	Shock Rifle	FlakDeath
+800.51	item_get	Ripper	5
+800.67	kill	1	Rocket Launcher	4	Minigun	RocketDeath
+800.67	spree	spree_dbl	1
+800.84	item_get	Enforcer	8
+801.17	item_get	Pulse Gun	7
+802.84	kill	7	Pulse Gun	1	Rocket Launcher	zapped
+804.28	item_get	Sniper Rifle	5
+805.05	item_get	MedBox	5
+805.11	item_get	Rocket Launcher	3
+805.33	item_get	Rocket Launcher	2
+806.50	item_get	Minigun	2
+806.50	item_get	Box of Rifle Rounds	5
+807.83	item_get	MedBox	2
+807.88	item_get	Flak Cannon	4
+807.94	item_get	Large Bullets	5
+808.05	item_get	MedBox	2
+809.51	item_get	Shock Rifle	1
+809.85	kill	7	Pulse Gun	4	Flak Cannon	zapped
+810.02	player	Ping	0	25
+810.02	player	Ping	1	0
+810.02	player	Ping	2	0
+810.02	player	Ping	3	0
+810.02	player	Ping	4	0
+810.02	player	Ping	5	0
+810.02	player	Ping	7	0
+810.02	player	Ping	8	98
+813.24	item_get	Biosludge Ammo	4
+813.30	item_get	Biosludge Ammo	4
+814.40	item_get	GES Bio Rifle	4
+815.40	kill	7	Pulse Gun	3	Rocket Launcher	zapped
+815.84	kill	2	Minigun	1	Shock Rifle	shot
+818.72	item_get	Shock Rifle	5
+819.06	item_get	Rocket Launcher	7
+819.22	kill	5	Rocket Launcher	2	Minigun	RocketDeath
+820.07	item_get	Ripper	4
+820.35	item_get	Shock Rifle	1
+821.24	item_get	Shock Core	3
+821.62	kill	5	Rocket Launcher	8	Double Enforcer	RocketDeath
+821.62	spree	spree_kill	8
+821.73	item_get	RocketPack	3
+823.85	item_get	Sniper Rifle	4
+824.07	item_get	Minigun	1
+824.45	suicide	0	Enforcer	Burned	None
+825.45	kill	1	Minigun	7	Rocket Launcher	shot
+826.85	item_get	Flak Cannon	3
+827.95	kill	1	Minigun	5	Flak Cannon	shot
+828.01	kill	5	None	1	Minigun	shredded
+828.01	spree	spree_dbl	5
+828.84	item_get	Flak Shells	8
+828.84	item_get	Flak Cannon	8
+830.72	item_get	Pulse Gun	2
+830.95	item_get	Pulse Cell	2
+831.11	item_get	Pulse Cell	2
+832.06	item_get	Shock Core	4
+832.28	item_get	Shock Rifle	4
+832.67	item_get	RocketPack	5
+834.05	item_get	Minigun	7
+835.90	kill	3	Flak Cannon	8	Flak Cannon	shredded
+836.18	item_get	Flak Cannon	7
+836.36	item_get	Health Vial	3
+836.41	item_get	Health Vial	3
+836.41	item_get	Health Vial	3
+836.92	item_get	Pulse Gun	5
+838.14	kill	4	Shock Rifle	7	Minigun	jolted
+839.50	kill	5	Pulse Gun	1	Enforcer	Pulsed
+840.05	player	Ping	0	26
+840.05	player	Ping	1	0
+840.05	player	Ping	2	0
+840.05	player	Ping	3	0
+840.05	player	Ping	4	0
+840.05	player	Ping	5	0
+840.05	player	Ping	7	0
+840.05	player	Ping	8	3403
+840.16	item_get	Enforcer	5
+840.55	kill	2	Pulse Gun	0	Enforcer	zapped
+841.16	item_get	Enforcer	2
+842.16	item_get	MedBox	3
+842.83	item_get	RocketPack	2
+843.06	kill	5	Pulse Gun	2	Pulse Gun	zapped
+843.50	item_get	Double Enforcer	1
+843.95	item_get	MedBox	3
+846.77	item_get	Flak Cannon	5
+848.64	item_get	Minigun	1
+849.08	item_get	Shock Rifle	1
+849.64	kill	4	Shock Rifle	1	Minigun	jolted
+850.19	item_get	GES Bio Rifle	7
+850.96	item_get	Health Vial	0
+851.13	kill	4	Shock Rifle	3	Enforcer	jolted
+854.15	item_get	Large Bullets	4
+854.20	item_get	Pulse Gun	2
+854.53	item_get	Minigun	4
+855.86	item_get	Biosludge Ammo	7
+855.86	item_get	Biosludge Ammo	7
+857.21	item_get	Shock Rifle	3
+857.27	kill	7	GES Bio Rifle	1	Enforcer	Corroded
+857.38	item_get	Enforcer	7
+857.71	item_get	Ripper	5
+857.77	item_get	Pulse Gun	0
+859.53	kill	2	Pulse Gun	0	Pulse Gun	zapped
+859.59	kill	3	Shock Rifle	4	Minigun	jolted
+860.20	item_get	Pulse Gun	2
+860.31	kill	7	GES Bio Rifle	5	Flak Cannon	Corroded
+861.91	item_get	Rocket Launcher	1
+861.97	kill	8	Enforcer	2	Pulse Gun	shot
+863.78	item_get	Flak Cannon	5
+864.27	item_get	Pulse Gun	8
+864.56	item_get	Pulse Cell	8
+864.61	item_get	Pulse Cell	8
+865.11	kill	3	Shock Rifle	4	Enforcer	jolted
+866.50	item_get	GES Bio Rifle	5
+866.73	item_get	Minigun	3
+866.78	item_get	ShieldBelt	7
+867.40	typing	True	8
+867.92	item_get	Rocket Launcher	2
+868.47	item_get	Shock Rifle	4
+868.87	item_get	Shock Core	4
+869.59	item_get	MedBox	3
+869.81	item_get	MedBox	3
+870.03	player	Ping	0	26
+870.03	player	Ping	1	0
+870.03	player	Ping	2	0
+870.03	player	Ping	3	0
+870.03	player	Ping	4	0
+870.03	player	Ping	5	0
+870.03	player	Ping	7	0
+870.03	player	Ping	8	142
+870.59	typing	False	8
+871.44	item_get	RocketPack	2
+872.16	item_get	Ripper	7
+872.21	kill	3	Minigun	4	Shock Rifle	shot
+875.88	kill	1	Rocket Launcher	2	Rocket Launcher	RocketDeath
+875.88	spree	spree_dbl	1
+878.00	suicide	8	Pulse Gun	Burned	None
+880.09	item_get	Enforcer	2
+881.08	item_get	Minigun	2
+881.25	item_get	Rocket Launcher	3
+881.31	item_get	Rocket Launcher	4
+884.52	item_get	Ripper	5
+884.85	suicide	1	Rocket Launcher	RocketDeath	Self
+885.68	item_get	Shock Core	1
+886.19	item_get	RocketPack	1
+886.52	kill	5	Ripper	7	Ripper	shredded
+889.51	item_get	Pulse Gun	8
+890.50	item_get	Flak Shells	5
+892.56	item_get	Rocket Launcher	7
+893.78	kill	4	Rocket Launcher	0	Enforcer	RocketDeath
+893.78	spree	spree_dbl	4
+893.83	item_get	Body Armor	3
+896.56	item_get	Flak Cannon	1
+896.83	item_get	Flak Shells	1
+897.61	kill	4	Rocket Launcher	5	Flak Cannon	RocketDeath
+898.94	item_get	Pulse Gun	4
+899.17	item_get	Pulse Cell	4
+899.33	item_get	Pulse Cell	4
+899.78	kill	7	Rocket Launcher	3	Rocket Launcher	RocketDeath
+900.01	player	Ping	0	25
+900.01	player	Ping	1	0
+900.01	player	Ping	2	0
+900.01	player	Ping	3	0
+900.01	player	Ping	4	0
+900.01	player	Ping	5	0
+900.01	player	Ping	7	0
+900.01	player	Ping	8	92
+900.61	item_get	Shock Rifle	2
+900.67	item_get	Enforcer	1
+901.50	kill	4	Pulse Gun	7	Rocket Launcher	zapped
+902.39	item_get	Shock Core	2
+902.78	item_get	Flak Cannon	1
+906.15	item_get	Pulse Gun	1
+906.56	kill	4	Pulse Gun	1	Pulse Gun	zapped
+906.95	item_get	Pulse Gun	4
+907.28	item_get	Rocket Launcher	7
+907.50	item_get	GES Bio Rifle	5
+908.11	item_get	MedBox	2
+908.34	item_get	MedBox	2
+908.34	item_get	Biosludge Ammo	5
+908.45	item_get	Biosludge Ammo	5
+910.05	item_get	Blade Hopper	8
+910.44	kill	7	Rocket Launcher	3	Enforcer	GrenadeDeath
+911.27	item_get	Enforcer	4
+912.10	kill	7	Rocket Launcher	4	Pulse Gun	RocketDeath
+912.71	item_get	Pulse Gun	8
+912.71	item_get	RocketPack	8
+912.99	item_get	Rocket Launcher	2
+913.74	item_get	Ripper	5
+918.08	item_get	RocketPack	3
+918.85	item_get	GES Bio Rifle	1
+921.29	item_get	GES Bio Rifle	4
+921.63	item_get	Rocket Launcher	3
+921.63	kill	1	GES Bio Rifle	4	Enforcer	Corroded
+922.21	item_get	Enforcer	1
+922.74	kill	2	Rocket Launcher	3	Rocket Launcher	GrenadeDeath
+924.02	kill	2	Rocket Launcher	7	Rocket Launcher	RocketDeath
+925.03	item_get	Flak Cannon	4
+925.59	kill	5	Ripper	0	Enforcer	RipperAltDeath
+926.03	item_get	Body Armor	2
+927.42	item_get	Ripper	1
+927.42	item_get	Enforcer	5
+928.75	item_get	Rocket Launcher	7
+928.97	item_get	ShieldBelt	4
+929.19	item_get	Flak Cannon	3
+929.41	item_get	Flak Shells	3
+929.97	item_get	Rocket Launcher	5
+930.02	player	Ping	0	25
+930.02	player	Ping	1	0
+930.02	player	Ping	2	0
+930.02	player	Ping	3	0
+930.02	player	Ping	4	0
+930.02	player	Ping	5	0
+930.02	player	Ping	7	0
+930.02	player	Ping	8	232
+931.02	item_get	Rocket Launcher	2
+931.59	kill	3	Flak Cannon	1	GES Bio Rifle	shredded
+932.10	suicide	8	Pulse Gun	Burned	None
+932.38	kill	5	GES Bio Rifle	2	Minigun	Corroded
+932.38	suicide	5	GES Bio Rifle	Corroded	Self
+936.69	item_get	GES Bio Rifle	7
+936.85	item_get	Minigun	7
+937.68	item_get	Pulse Gun	7
+938.51	item_get	GES Bio Rifle	1
+938.51	item_get	Rocket Launcher	5
+940.56	item_get	Biosludge Ammo	1
+940.68	item_get	Biosludge Ammo	1
+941.40	kill	4	Flak Cannon	2	Enforcer	shredded
+941.96	item_get	GES Bio Rifle	8
+942.46	kill	4	Flak Cannon	3	Flak Cannon	shredded
+942.96	kill	7	Rocket Launcher	4	Flak Cannon	RocketDeath
+942.96	spree	spree_dbl	7
+944.87	item_get	Flak Cannon	7
+946.40	item_get	Ripper	1
+946.95	item_get	Enforcer	7
+948.62	item_get	GES Bio Rifle	2
+948.90	item_get	Shock Rifle	0
+949.01	item_get	RocketPack	7
+949.23	item_get	Shock Core	0
+950.12	kill	7	Rocket Launcher	3	Impact Hammer	RocketDeath
+950.17	item_get	Sniper Rifle	1
+950.72	item_get	Box of Rifle Rounds	1
+951.82	item_get	Minigun	4
+952.21	item_get	Large Bullets	4
+952.27	item_get	Large Bullets	1
+952.90	kill	7	Rocket Launcher	5	Rocket Launcher	RocketDeath
+954.01	item_get	Sniper Rifle	3
+955.85	suicide	2	GES Bio Rifle	Corroded	Self
+958.29	kill	1	GES Bio Rifle	0	Shock Rifle	Corroded
+958.79	kill	4	Minigun	7	Flak Cannon	shot
+958.79	spree	spree_dbl	4
+958.95	suicide	8	GES Bio Rifle	Corroded	Self
+959.39	kill	3	Sniper Rifle	1	GES Bio Rifle	shot
+959.45	item_get	GES Bio Rifle	5
+960.01	player	Ping	0	160
+960.01	player	Ping	1	0
+960.01	player	Ping	2	0
+960.01	player	Ping	3	0
+960.01	player	Ping	4	0
+960.01	player	Ping	5	0
+960.01	player	Ping	7	0
+960.01	player	Ping	8	65
+960.07	item_get	GES Bio Rifle	7
+960.17	item_get	Shock Rifle	4
+960.51	item_get	GES Bio Rifle	3
+960.68	item_get	GES Bio Rifle	7
+962.21	item_get	Shock Rifle	3
+964.15	item_get	MedBox	7
+964.82	item_get	Shock Core	8
+965.21	item_get	Ripper	5
+965.65	item_get	RocketPack	8
+965.99	item_get	Pulse Gun	2
+966.82	item_get	Flak Cannon	0
+967.71	item_get	Sniper Rifle	1
+968.16	item_get	Rocket Launcher	2
+970.37	item_get	Health Vial	0
+970.43	item_get	Health Vial	0
+970.43	item_get	Health Vial	0
+970.76	kill	4	Minigun	2	Pulse Gun	shot
+970.93	item_get	Pulse Gun	3
+971.04	kill	7	GES Bio Rifle	8	Enforcer	Corroded
+971.04	spree	spree_dbl	7
+971.15	item_get	Pulse Cell	3
+971.32	item_get	Pulse Cell	3
+971.37	kill	1	Sniper Rifle	5	GES Bio Rifle	shot
+971.49	item_get	Pulse Gun	4
+971.71	item_get	Body Armor	4
+974.00	kill	4	Minigun	3	Pulse Gun	shot
+974.61	item_get	Enforcer	7
+975.27	item_get	GES Bio Rifle	1
+975.39	item_get	GES Bio Rifle	8
+976.05	item_get	Ripper	1
+976.39	item_get	Flak Cannon	5
+976.56	item_get	Flak Shells	5
+977.23	item_get	Biosludge Ammo	8
+977.34	item_get	Biosludge Ammo	8
+978.08	item_get	MedBox	7
+979.75	item_get	Flak Cannon	2
+984.67	kill	4	Pulse Gun	5	Flak Cannon	zapped
+985.22	item_get	Minigun	2
+985.66	item_get	Large Bullets	2
+985.66	kill	8	GES Bio Rifle	1	Ripper	Corroded
+986.63	kill	3	Enforcer	4	Pulse Gun	shot
+987.86	item_get	Pulse Gun	3
+989.24	item_get	Flak Cannon	1
+990.03	player	Ping	0	26
+990.03	player	Ping	1	0
+990.03	player	Ping	2	0
+990.03	player	Ping	3	0
+990.03	player	Ping	4	0
+990.03	player	Ping	5	0
+990.03	player	Ping	7	0
+990.03	player	Ping	8	128
+990.59	item_get	Ripper	0
+990.92	item_get	Sniper Rifle	4
+991.04	kill	1	Flak Cannon	3	Pulse Gun	FlakDeath
+991.48	item_get	Box of Rifle Rounds	4
+992.26	kill	2	Minigun	7	GES Bio Rifle	shot
+992.26	spree	spree_dbl	2
+992.31	item_get	GES Bio Rifle	2
+993.04	item_get	Shock Rifle	2
+993.15	kill	0	Flak Cannon	8	GES Bio Rifle	shredded
+993.43	item_get	Shock Core	2
+993.48	item_get	GES Bio Rifle	5
+994.09	item_get	Pulse Gun	1
+995.77	item_get	Ripper	4
+997.75	item_get	Flak Cannon	7
+998.53	kill	3	Enforcer	2	Minigun	shot
+998.70	item_get	Shock Rifle	3
+999.09	item_get	Flak Cannon	1
+999.47	item_get	RocketPack	1
+999.58	item_get	ShieldBelt	5
+999.64	kill	7	Flak Cannon	1	Flak Cannon	FlakDeath
+999.92	item_get	Minigun	3
+1000.69	item_get	Shock Core	0
+1001.08	item_get	RocketPack	0
+1001.13	item_get	RocketPack	8
+1002.73	kill	5	GES Bio Rifle	4	Sniper Rifle	Corroded
+1003.35	item_get	Sniper Rifle	5
+1004.07	item_get	Rocket Launcher	8
+1004.67	item_get	Shock Rifle	2
+1005.45	suicide	0	Flak Cannon	shredded	Self
+1006.06	item_get	Flak Cannon	7
+1006.39	item_get	Minigun	1
+1006.39	item_get	MedBox	3
+1006.55	item_get	MedBox	3
+1006.83	item_get	Flak Cannon	4
+1007.16	item_get	Flak Shells	4
+1008.67	item_get	Pulse Gun	8
+1008.72	item_get	Pulse Cell	8
+1009.28	item_get	Pulse Cell	8
+1014.02	kill	5	GES Bio Rifle	7	Flak Cannon	Corroded
+1015.69	item_get	Body Armor	3
+1015.97	kill	1	Minigun	2	Shock Rifle	shot
+1016.19	item_get	Flak Cannon	5
+1016.53	kill	4	Flak Cannon	5	GES Bio Rifle	shredded
+1018.13	item_get	Pulse Gun	3
+1018.41	kill	8	Rocket Launcher	4	Flak Cannon	RocketDeath
+1020.01	player	Ping	0	25
+1020.01	player	Ping	1	0
+1020.01	player	Ping	2	0
+1020.01	player	Ping	3	0
+1020.01	player	Ping	4	0
+1020.01	player	Ping	5	0
+1020.01	player	Ping	7	0
+1020.01	player	Ping	8	237
+1020.24	item_get	Health Vial	8
+1020.35	item_get	Health Vial	8
+1020.35	item_get	Health Vial	8
+1020.90	item_get	Sniper Rifle	7
+1021.62	item_get	Flak Cannon	4
+1021.73	item_get	Rocket Launcher	2
+1022.22	item_get	Flak Cannon	5
+1024.17	item_get	MedBox	8
+1025.11	kill	4	Flak Cannon	3	Minigun	FlakDeath
+1025.90	kill	7	Sniper Rifle	5	Flak Cannon	shot
+1028.03	item_get	MedBox	8
+1029.13	item_get	Box of Rifle Rounds	7
+1029.41	kill	2	Rocket Launcher	1	Minigun	RocketDeath
+1031.86	item_get	Rocket Launcher	5
+1032.24	item_get	Biosludge Ammo	3
+1032.30	item_get	Biosludge Ammo	3
+1032.57	item_get	GES Bio Rifle	8
+1033.02	item_get	Pulse Gun	4
+1033.24	item_get	Minigun	4
+1033.30	kill	2	Rocket Launcher	4	Flak Cannon	RocketDeath
+1033.30	item_get	Shock Core	8
+1033.41	item_get	GES Bio Rifle	3
+1036.02	item_get	Minigun	1
+1036.96	item_get	RocketPack	5
+1037.12	item_get	Flak Cannon	1
+1037.73	kill	2	Rocket Launcher	7	Sniper Rifle	RocketDeath
+1038.06	item_get	Flak Shells	1
+1039.17	item_get	Ripper	3
+1039.72	item_get	GES Bio Rifle	4
+1039.89	item_get	Pulse Gun	2
+1040.07	item_get	Pulse Cell	2
+1040.13	item_get	Flak Cannon	2
+1040.19	item_get	Pulse Cell	2
+1041.35	kill	1	Flak Cannon	8	Rocket Launcher	shredded
+1042.95	item_get	Sniper Rifle	3
+1044.34	item_get	RocketPack	1
+1045.31	item_get	Ripper	4
+1046.48	item_get	Invisibility	3
+1046.48	item_activate	Invisibility	3
+1046.48	item_get	Rocket Launcher	7
+1046.93	kill	3	Sniper Rifle	1	Flak Cannon	shot
+1047.54	kill	5	Rocket Launcher	2	Flak Cannon	RocketDeath
+1048.09	item_get	Flak Cannon	5
+1049.42	kill	3	Sniper Rifle	4	Ripper	shot
+1049.53	item_get	Pulse Gun	5
+1050.03	player	Ping	0	25
+1050.03	player	Ping	1	0
+1050.03	player	Ping	2	0
+1050.03	player	Ping	3	0
+1050.03	player	Ping	4	0
+1050.03	player	Ping	5	0
+1050.03	player	Ping	7	0
+1050.03	player	Ping	8	74
+1052.85	item_get	Flak Cannon	1
+1052.85	item_get	Rocket Launcher	8
+1053.73	item_get	Shock Rifle	4
+1054.12	item_get	Shock Core	4
+1054.29	item_get	Sniper Rifle	1
+1054.29	kill	7	Rocket Launcher	5	Flak Cannon	RocketDeath
+1054.29	suicide	7	Rocket Launcher	RocketDeath	Self
+1055.34	item_get	GES Bio Rifle	2
+1058.45	item_get	Rocket Launcher	8
+1060.16	item_get	Flak Cannon	8
+1060.50	item_get	Body Armor	8
+1061.11	item_get	Ripper	2
+1061.27	item_get	Shock Rifle	7
+1062.60	item_get	Rocket Launcher	5
+1062.66	item_get	Pulse Gun	1
+1064.21	item_get	ShieldBelt	2
+1064.82	kill	4	Shock Rifle	7	Shock Rifle	jolted
+1064.82	item_get	Shock Rifle	4
+1068.18	item_get	Flak Cannon	2
+1068.57	item_get	Flak Shells	2
+1068.90	item_get	Biosludge Ammo	0
+1068.90	item_get	Biosludge Ammo	0
+1069.89	item_get	MedBox	4
+1070.06	item_get	MedBox	4
+1071.45	item_get	Health Vial	2
+1071.50	item_get	Health Vial	2
+1071.50	item_get	Health Vial	2
+1072.39	kill	5	Rocket Launcher	1	Pulse Gun	RocketDeath
+1073.05	item_get	Sniper Rifle	7
+1073.61	item_get	Box of Rifle Rounds	7
+1074.16	kill	5	Rocket Launcher	4	Shock Rifle	RocketDeath
+1075.83	kill	3	Sniper Rifle	7	Sniper Rifle	shot
+1075.83	spree	spree_dbl	3
+1077.40	kill	8	Rocket Launcher	5	Rocket Launcher	RocketDeath
+1077.40	item_get	GES Bio Rifle	0
+1077.78	item_get	Sniper Rifle	3
+1078.83	item_get	Shock Rifle	4
+1079.17	item_get	Flak Cannon	1
+1079.50	item_get	MedBox	3
+1079.78	item_get	MedBox	3
+1080.00	player	Ping	0	25
+1080.00	player	Ping	1	0
+1080.00	player	Ping	2	0
+1080.00	player	Ping	3	0
+1080.00	player	Ping	4	0
+1080.00	player	Ping	5	0
+1080.00	player	Ping	7	0
+1080.00	player	Ping	8	44
+1080.50	item_get	Pulse Gun	2
+1080.50	item_get	Shock Core	7
+1080.72	item_get	Pulse Cell	2
+1080.89	item_get	Pulse Cell	2
+1081.00	item_get	RocketPack	7
+1082.60	item_get	Rocket Launcher	8
+1082.99	item_get	Blade Hopper	3
+1083.82	item_get	Flak Shells	3
+1083.93	kill	8	Rocket Launcher	4	Shock Rifle	RocketDeath
+1085.75	item_get	Shock Rifle	2
+1087.20	item_get	Minigun	5
+1087.36	item_get	RocketPack	3
+1087.53	item_get	Flak Cannon	7
+1087.58	item_get	Large Bullets	5
+1089.84	item_get	Shock Rifle	8
+1090.12	item_get	Shock Core	8
+1092.49	item_get	Flak Cannon	4
+1093.65	kill	7	Flak Cannon	3	Sniper Rifle	FlakDeath
+1094.04	item_get	Pulse Gun	2
+1095.92	kill	5	Minigun	2	Flak Cannon	shot
+1095.92	spree	spree_dbl	5
+1097.95	kill	8	Flak Cannon	5	Minigun	shredded
+1099.12	kill	0	GES Bio Rifle	1	Flak Cannon	Corroded
+1102.70	item_get	Rocket Launcher	1
+1102.99	item_get	Flak Cannon	2
+1103.22	item_get	Flak Shells	2
+1103.50	item_get	Minigun	3
+1105.35	kill	2	Flak Cannon	4	Flak Cannon	FlakDeath
+1105.76	item_get	Flak Cannon	5
+1106.89	kill	3	Minigun	8	Shock Rifle	shot
+1107.80	item_get	Health Vial	2
+1107.85	item_get	RocketPack	1
+1107.85	item_get	Health Vial	2
+1107.85	item_get	Health Vial	2
+1109.05	suicide	0	GES Bio Rifle	Corroded	Self
+1109.10	kill	3	Minigun	7	Enforcer	shot
+1110.04	player	Ping	0	26
+1110.04	player	Ping	1	0
+1110.04	player	Ping	2	0
+1110.04	player	Ping	3	0
+1110.04	player	Ping	4	0
+1110.04	player	Ping	5	0
+1110.04	player	Ping	7	0
+1110.04	player	Ping	8	168
+1112.31	item_get	Shock Rifle	1
+1112.64	item_get	Body Armor	1
+1112.64	item_get	Sniper Rifle	8
+1112.98	item_get	Box of Rifle Rounds	8
+1113.70	item_get	Shock Rifle	3
+1114.19	item_get	Large Bullets	8
+1114.63	item_get	Flak Cannon	3
+1114.63	item_get	Rocket Launcher	4
+1115.41	kill	2	Flak Cannon	7	Enforcer	FlakDeath
+1116.52	kill	8	Sniper Rifle	5	Flak Cannon	shot
+1116.69	item_get	Enforcer	3
+1116.96	item_get	RocketPack	0
+1117.07	item_get	Minigun	3
+1118.30	kill	1	Rocket Launcher	2	Flak Cannon	RocketDeath
+1119.20	item_get	Biosludge Ammo	7
+1119.26	item_get	Biosludge Ammo	7
+1120.37	item_get	GES Bio Rifle	7
+1120.66	item_get	Flak Cannon	1
+1123.04	item_get	Shock Rifle	5
+1123.43	item_get	Shock Core	5
+1125.50	item_get	Shock Rifle	2
+1126.05	item_get	Ripper	7
+1126.16	kill	4	Rocket Launcher	3	Flak Cannon	RocketDeath
+1126.16	game_end	fraglimit
+1126.16	spree	spree_dbl	3
+1126.16	
+1126.16	stat_player	accuracy	6	19.101124
+1126.16	stat_player	score	6	4
+1126.16	stat_player	frags	6	4
+1126.16	stat_player	kills	6	4
+1126.16	stat_player	deaths	6	6
+1126.16	stat_player	suicides	6	0
+1126.16	stat_player	teamkills	6	0
+1126.16	stat_player	efficiency	6	40.000000
+1126.16	stat_player	time_on_server	6	155.797119
+1126.16	stat_player	ttl	6	25.833334
+1126.16	weap_shotcount	Flak Cannon	6	24
+1126.16	weap_hitcount	Flak Cannon	6	6
+1126.16	weap_damagegiven	Flak Cannon	6	129
+1126.16	weap_accuracy	Flak Cannon	6	25.000000
+1126.16	weap_shotcount	Shock Rifle	6	3
+1126.16	weap_hitcount	Shock Rifle	6	2
+1126.16	weap_damagegiven	Shock Rifle	6	151
+1126.16	weap_accuracy	Shock Rifle	6	66.666672
+1126.16	weap_shotcount	GES Bio Rifle	6	3
+1126.16	weap_hitcount	GES Bio Rifle	6	1
+1126.16	weap_damagegiven	GES Bio Rifle	6	85
+1126.16	weap_accuracy	GES Bio Rifle	6	33.333336
+1126.16	weap_shotcount	Minigun	6	59
+1126.16	weap_hitcount	Minigun	6	8
+1126.16	weap_damagegiven	Minigun	6	42
+1126.16	weap_accuracy	Minigun	6	13.559322
+1126.16	stat_player	accuracy	0	4.582210
+1126.16	stat_player	score	0	-1
+1126.16	stat_player	frags	0	-1
+1126.16	stat_player	kills	0	3
+1126.16	stat_player	deaths	0	13
+1126.16	stat_player	suicides	0	4
+1126.16	stat_player	teamkills	0	0
+1126.16	stat_player	efficiency	0	15.000001
+1126.16	stat_player	time_on_server	0	681.021851
+1126.16	stat_player	ttl	0	52.384617
+1126.16	weap_shotcount	Enforcer	0	68
+1126.16	weap_hitcount	Enforcer	0	5
+1126.16	weap_damagegiven	Enforcer	0	125
+1126.16	weap_accuracy	Enforcer	0	7.352942
+1126.16	weap_shotcount	Shock Rifle	0	26
+1126.16	weap_hitcount	Shock Rifle	0	0
+1126.16	weap_damagegiven	Shock Rifle	0	0
+1126.16	weap_accuracy	Shock Rifle	0	0.000000
+1126.16	weap_shotcount	Minigun	0	244
+1126.16	weap_hitcount	Minigun	0	5
+1126.16	weap_damagegiven	Minigun	0	77
+1126.16	weap_accuracy	Minigun	0	2.049180
+1126.16	weap_shotcount	Flak Cannon	0	13
+1126.16	weap_hitcount	Flak Cannon	0	6
+1126.16	weap_damagegiven	Flak Cannon	0	144
+1126.16	weap_accuracy	Flak Cannon	0	46.153847
+1126.16	weap_shotcount	Pulse Gun	0	1
+1126.16	weap_hitcount	Pulse Gun	0	0
+1126.16	weap_damagegiven	Pulse Gun	0	0
+1126.16	weap_accuracy	Pulse Gun	0	0.000000
+1126.16	weap_shotcount	GES Bio Rifle	0	19
+1126.16	weap_hitcount	GES Bio Rifle	0	1
+1126.16	weap_damagegiven	GES Bio Rifle	0	94
+1126.16	weap_accuracy	GES Bio Rifle	0	5.263158
+1126.16	stat_player	accuracy	1	30.370369
+1126.16	stat_player	score	1	21
+1126.16	stat_player	frags	1	21
+1126.16	stat_player	kills	1	23
+1126.16	stat_player	deaths	1	24
+1126.16	stat_player	suicides	1	2
+1126.16	stat_player	teamkills	1	0
+1126.16	stat_player	efficiency	1	46.938778
+1126.16	stat_player	time_on_server	1	669.308228
+1126.16	stat_player	ttl	1	27.875000
+1126.16	weap_shotcount	Shock Rifle	1	15
+1126.16	weap_hitcount	Shock Rifle	1	2
+1126.16	weap_damagegiven	Shock Rifle	1	84
+1126.16	weap_accuracy	Shock Rifle	1	13.333334
+1126.16	weap_shotcount	Minigun	1	250
+1126.16	weap_hitcount	Minigun	1	46
+1126.16	weap_damagegiven	Minigun	1	701
+1126.16	weap_accuracy	Minigun	1	18.400000
+1126.16	weap_shotcount	Flak Cannon	1	41
+1126.16	weap_hitcount	Flak Cannon	1	35
+1126.16	weap_damagegiven	Flak Cannon	1	402
+1126.16	weap_accuracy	Flak Cannon	1	85.365852
+1126.16	weap_shotcount	Ripper	1	5
+1126.16	weap_hitcount	Ripper	1	2
+1126.16	weap_damagegiven	Ripper	1	29
+1126.16	weap_accuracy	Ripper	1	40.000000
+1126.16	weap_shotcount	GES Bio Rifle	1	13
+1126.16	weap_hitcount	GES Bio Rifle	1	9
+1126.16	weap_damagegiven	GES Bio Rifle	1	359
+1126.16	weap_accuracy	GES Bio Rifle	1	69.230774
+1126.16	weap_shotcount	Pulse Gun	1	56
+1126.16	weap_hitcount	Pulse Gun	1	17
+1126.16	weap_damagegiven	Pulse Gun	1	137
+1126.16	weap_accuracy	Pulse Gun	1	30.357143
+1126.16	weap_shotcount	Enforcer	1	2
+1126.16	weap_hitcount	Enforcer	1	1
+1126.16	weap_damagegiven	Enforcer	1	25
+1126.16	weap_accuracy	Enforcer	1	50.000000
+1126.16	weap_shotcount	Sniper Rifle	1	11
+1126.16	weap_hitcount	Sniper Rifle	1	4
+1126.16	weap_damagegiven	Sniper Rifle	1	239
+1126.16	weap_accuracy	Sniper Rifle	1	36.363636
+1126.16	weap_shotcount	Rocket Launcher	1	11
+1126.16	weap_hitcount	Rocket Launcher	1	7
+1126.16	weap_damagegiven	Rocket Launcher	1	473
+1126.16	weap_accuracy	Rocket Launcher	1	63.636364
+1126.16	stat_player	accuracy	2	27.376425
+1126.16	stat_player	score	2	16
+1126.16	stat_player	frags	2	16
+1126.16	stat_player	kills	2	18
+1126.16	stat_player	deaths	2	23
+1126.16	stat_player	suicides	2	2
+1126.16	stat_player	teamkills	2	0
+1126.16	stat_player	efficiency	2	41.860466
+1126.16	stat_player	time_on_server	2	668.262085
+1126.16	stat_player	ttl	2	29.043478
+1126.16	weap_shotcount	Pulse Gun	2	160
+1126.16	weap_hitcount	Pulse Gun	2	83
+1126.16	weap_damagegiven	Pulse Gun	2	624
+1126.16	weap_accuracy	Pulse Gun	2	51.875000
+1126.16	weap_shotcount	Minigun	2	272
+1126.16	weap_hitcount	Minigun	2	32
+1126.16	weap_damagegiven	Minigun	2	450
+1126.16	weap_accuracy	Minigun	2	11.764706
+1126.16	weap_shotcount	Sniper Rifle	2	3
+1126.16	weap_hitcount	Sniper Rifle	2	1
+1126.16	weap_damagegiven	Sniper Rifle	2	25
+1126.16	weap_accuracy	Sniper Rifle	2	33.333336
+1126.16	weap_shotcount	Rocket Launcher	2	13
+1126.16	weap_hitcount	Rocket Launcher	2	6
+1126.16	weap_damagegiven	Rocket Launcher	2	699
+1126.16	weap_accuracy	Rocket Launcher	2	46.153847
+1126.16	weap_shotcount	GES Bio Rifle	2	11
+1126.16	weap_hitcount	GES Bio Rifle	2	5
+1126.16	weap_damagegiven	GES Bio Rifle	2	152
+1126.16	weap_accuracy	GES Bio Rifle	2	45.454548
+1126.16	weap_shotcount	Shock Rifle	2	24
+1126.16	weap_hitcount	Shock Rifle	2	1
+1126.16	weap_damagegiven	Shock Rifle	2	24
+1126.16	weap_accuracy	Shock Rifle	2	4.166667
+1126.16	weap_shotcount	Enforcer	2	8
+1126.16	weap_hitcount	Enforcer	2	5
+1126.16	weap_damagegiven	Enforcer	2	125
+1126.16	weap_accuracy	Enforcer	2	62.500000
+1126.16	weap_shotcount	Ripper	2	9
+1126.16	weap_hitcount	Ripper	2	2
+1126.16	weap_damagegiven	Ripper	2	70
+1126.16	weap_accuracy	Ripper	2	22.222223
+1126.16	weap_shotcount	Flak Cannon	2	26
+1126.16	weap_hitcount	Flak Cannon	2	9
+1126.16	weap_damagegiven	Flak Cannon	2	150
+1126.16	weap_accuracy	Flak Cannon	2	34.615387
+1126.16	stat_player	accuracy	3	50.657890
+1126.16	stat_player	score	3	28
+1126.16	stat_player	frags	3	28
+1126.16	stat_player	kills	3	28
+1126.16	stat_player	deaths	3	21
+1126.16	stat_player	suicides	3	0
+1126.16	stat_player	teamkills	3	0
+1126.16	stat_player	efficiency	3	57.142860
+1126.16	stat_player	time_on_server	3	667.159912
+1126.16	stat_player	ttl	3	31.761906
+1126.16	weap_shotcount	Sniper Rifle	3	25
+1126.16	weap_hitcount	Sniper Rifle	3	29
+1126.16	weap_damagegiven	Sniper Rifle	3	1164
+1126.16	weap_accuracy	Sniper Rifle	3	116.000000
+1126.16	weap_shotcount	Ripper	3	0
+1126.16	weap_hitcount	Ripper	3	0
+1126.16	weap_damagegiven	Ripper	3	0
+1126.16	weap_accuracy	Ripper	3	0.000000
+1126.16	weap_shotcount	Shock Rifle	3	18
+1126.16	weap_hitcount	Shock Rifle	3	11
+1126.16	weap_damagegiven	Shock Rifle	3	452
+1126.16	weap_accuracy	Shock Rifle	3	61.111111
+1126.16	weap_shotcount	Minigun	3	183
+1126.16	weap_hitcount	Minigun	3	78
+1126.16	weap_damagegiven	Minigun	3	1354
+1126.16	weap_accuracy	Minigun	3	42.622952
+1126.16	weap_shotcount	Flak Cannon	3	25
+1126.16	weap_hitcount	Flak Cannon	3	24
+1126.16	weap_damagegiven	Flak Cannon	3	262
+1126.16	weap_accuracy	Flak Cannon	3	96.000000
+1126.16	weap_shotcount	Rocket Launcher	3	6
+1126.16	weap_hitcount	Rocket Launcher	3	2
+1126.16	weap_damagegiven	Rocket Launcher	3	133
+1126.16	weap_accuracy	Rocket Launcher	3	33.333336
+1126.16	weap_shotcount	GES Bio Rifle	3	3
+1126.16	weap_hitcount	GES Bio Rifle	3	1
+1126.16	weap_damagegiven	GES Bio Rifle	3	54
+1126.16	weap_accuracy	GES Bio Rifle	3	33.333336
+1126.16	weap_shotcount	Pulse Gun	3	44
+1126.16	weap_hitcount	Pulse Gun	3	9
+1126.16	weap_damagegiven	Pulse Gun	3	154
+1126.16	weap_accuracy	Pulse Gun	3	20.454546
+1126.16	weap_shotcount	Impact Hammer	3	0
+1126.16	weap_hitcount	Impact Hammer	3	0
+1126.16	weap_damagegiven	Impact Hammer	3	0
+1126.16	weap_accuracy	Impact Hammer	3	0.000000
+1126.16	stat_player	accuracy	4	22.950819
+1126.16	stat_player	score	4	30
+1126.16	stat_player	frags	4	30
+1126.16	stat_player	kills	4	30
+1126.16	stat_player	deaths	4	25
+1126.16	stat_player	suicides	4	0
+1126.16	stat_player	teamkills	4	0
+1126.16	stat_player	efficiency	4	54.545456
+1126.16	stat_player	time_on_server	4	666.054077
+1126.16	stat_player	ttl	4	26.639999
+1126.16	weap_shotcount	Pulse Gun	4	101
+1126.16	weap_hitcount	Pulse Gun	4	43
+1126.16	weap_damagegiven	Pulse Gun	4	530
+1126.16	weap_accuracy	Pulse Gun	4	42.574257
+1126.16	weap_shotcount	GES Bio Rifle	4	5
+1126.16	weap_hitcount	GES Bio Rifle	4	1
+1126.16	weap_damagegiven	GES Bio Rifle	4	46
+1126.16	weap_accuracy	GES Bio Rifle	4	20.000000
+1126.16	weap_shotcount	Ripper	4	9
+1126.16	weap_hitcount	Ripper	4	3
+1126.16	weap_damagegiven	Ripper	4	118
+1126.16	weap_accuracy	Ripper	4	33.333336
+1126.16	weap_shotcount	Enforcer	4	8
+1126.16	weap_hitcount	Enforcer	4	2
+1126.16	weap_damagegiven	Enforcer	4	50
+1126.16	weap_accuracy	Enforcer	4	25.000000
+1126.16	weap_shotcount	Flak Cannon	4	44
+1126.16	weap_hitcount	Flak Cannon	4	35
+1126.16	weap_damagegiven	Flak Cannon	4	747
+1126.16	weap_accuracy	Flak Cannon	4	79.545456
+1126.16	weap_shotcount	Sniper Rifle	4	22
+1126.16	weap_hitcount	Sniper Rifle	4	5
+1126.16	weap_damagegiven	Sniper Rifle	4	142
+1126.16	weap_accuracy	Sniper Rifle	4	22.727274
+1126.16	weap_shotcount	Minigun	4	371
+1126.16	weap_hitcount	Minigun	4	35
+1126.16	weap_damagegiven	Minigun	4	473
+1126.16	weap_accuracy	Minigun	4	9.433963
+1126.16	weap_shotcount	Shock Rifle	4	30
+1126.16	weap_hitcount	Shock Rifle	4	10
+1126.16	weap_damagegiven	Shock Rifle	4	566
+1126.16	weap_accuracy	Shock Rifle	4	33.333336
+1126.16	weap_shotcount	Rocket Launcher	4	20
+1126.16	weap_hitcount	Rocket Launcher	4	6
+1126.16	weap_damagegiven	Rocket Launcher	4	459
+1126.16	weap_accuracy	Rocket Launcher	4	30.000002
+1126.16	stat_player	accuracy	5	25.229359
+1126.16	stat_player	score	5	20
+1126.16	stat_player	frags	5	20
+1126.16	stat_player	kills	5	22
+1126.16	stat_player	deaths	5	18
+1126.16	stat_player	suicides	5	2
+1126.16	stat_player	teamkills	5	0
+1126.16	stat_player	efficiency	5	52.380955
+1126.16	stat_player	time_on_server	5	666.054077
+1126.16	stat_player	ttl	5	37.000000
+1126.16	weap_shotcount	GES Bio Rifle	5	17
+1126.16	weap_hitcount	GES Bio Rifle	5	11
+1126.16	weap_damagegiven	GES Bio Rifle	5	488
+1126.16	weap_accuracy	GES Bio Rifle	5	64.705887
+1126.16	weap_shotcount	Enforcer	5	14
+1126.16	weap_hitcount	Enforcer	5	2
+1126.16	weap_damagegiven	Enforcer	5	25
+1126.16	weap_accuracy	Enforcer	5	14.285715
+1126.16	weap_shotcount	Ripper	5	14
+1126.16	weap_hitcount	Ripper	5	5
+1126.16	weap_damagegiven	Ripper	5	71
+1126.16	weap_accuracy	Ripper	5	35.714287
+1126.16	weap_shotcount	Sniper Rifle	5	8
+1126.16	weap_hitcount	Sniper Rifle	5	0
+1126.16	weap_damagegiven	Sniper Rifle	5	0
+1126.16	weap_accuracy	Sniper Rifle	5	0.000000
+1126.16	weap_shotcount	Pulse Gun	5	49
+1126.16	weap_hitcount	Pulse Gun	5	14
+1126.16	weap_damagegiven	Pulse Gun	5	360
+1126.16	weap_accuracy	Pulse Gun	5	28.571430
+1126.16	weap_shotcount	Minigun	5	258
+1126.16	weap_hitcount	Minigun	5	37
+1126.16	weap_damagegiven	Minigun	5	384
+1126.16	weap_accuracy	Minigun	5	14.341084
+1126.16	weap_shotcount	Rocket Launcher	5	33
+1126.16	weap_hitcount	Rocket Launcher	5	13
+1126.16	weap_damagegiven	Rocket Launcher	5	791
+1126.16	weap_accuracy	Rocket Launcher	5	39.393940
+1126.16	weap_shotcount	Flak Cannon	5	27
+1126.16	weap_hitcount	Flak Cannon	5	27
+1126.16	weap_damagegiven	Flak Cannon	5	510
+1126.16	weap_accuracy	Flak Cannon	5	100.000000
+1126.16	weap_shotcount	Shock Rifle	5	16
+1126.16	weap_hitcount	Shock Rifle	5	1
+1126.16	weap_damagegiven	Shock Rifle	5	24
+1126.16	weap_accuracy	Shock Rifle	5	6.250000
+1126.16	stat_player	accuracy	7	39.024387
+1126.16	stat_player	score	7	19
+1126.16	stat_player	frags	7	19
+1126.16	stat_player	kills	7	22
+1126.16	stat_player	deaths	7	26
+1126.16	stat_player	suicides	7	3
+1126.16	stat_player	teamkills	7	0
+1126.16	stat_player	efficiency	7	43.137257
+1126.16	stat_player	time_on_server	7	666.054077
+1126.16	stat_player	ttl	7	25.615385
+1126.16	weap_shotcount	Flak Cannon	7	36
+1126.16	weap_hitcount	Flak Cannon	7	30
+1126.16	weap_damagegiven	Flak Cannon	7	411
+1126.16	weap_accuracy	Flak Cannon	7	83.333328
+1126.16	weap_shotcount	Pulse Gun	7	58
+1126.16	weap_hitcount	Pulse Gun	7	25
+1126.16	weap_damagegiven	Pulse Gun	7	374
+1126.16	weap_accuracy	Pulse Gun	7	43.103447
+1126.16	weap_shotcount	GES Bio Rifle	7	25
+1126.16	weap_hitcount	GES Bio Rifle	7	10
+1126.16	weap_damagegiven	GES Bio Rifle	7	435
+1126.16	weap_accuracy	GES Bio Rifle	7	40.000000
+1126.16	weap_shotcount	Sniper Rifle	7	13
+1126.16	weap_hitcount	Sniper Rifle	7	5
+1126.16	weap_damagegiven	Sniper Rifle	7	185
+1126.16	weap_accuracy	Sniper Rifle	7	38.461540
+1126.16	weap_shotcount	Ripper	7	12
+1126.16	weap_hitcount	Ripper	7	1
+1126.16	weap_damagegiven	Ripper	7	12
+1126.16	weap_accuracy	Ripper	7	8.333334
+1126.16	weap_shotcount	Minigun	7	103
+1126.16	weap_hitcount	Minigun	7	25
+1126.16	weap_damagegiven	Minigun	7	461
+1126.16	weap_accuracy	Minigun	7	24.271845
+1126.16	weap_shotcount	Shock Rifle	7	8
+1126.16	weap_hitcount	Shock Rifle	7	3
+1126.16	weap_damagegiven	Shock Rifle	7	163
+1126.16	weap_accuracy	Shock Rifle	7	37.500000
+1126.16	weap_shotcount	Rocket Launcher	7	22
+1126.16	weap_hitcount	Rocket Launcher	7	13
+1126.16	weap_damagegiven	Rocket Launcher	7	839
+1126.16	weap_accuracy	Rocket Launcher	7	59.090908
+1126.16	weap_shotcount	Double Enforcer	7	9
+1126.16	weap_hitcount	Double Enforcer	7	0
+1126.16	weap_damagegiven	Double Enforcer	7	0
+1126.16	weap_accuracy	Double Enforcer	7	0.000000
+1126.16	stat_player	accuracy	8	21.276596
+1126.16	stat_player	score	8	9
+1126.16	stat_player	frags	8	9
+1126.16	stat_player	kills	8	13
+1126.16	stat_player	deaths	8	7
+1126.16	stat_player	suicides	8	4
+1126.16	stat_player	teamkills	8	0
+1126.16	stat_player	efficiency	8	54.166668
+1126.16	stat_player	time_on_server	8	512.767822
+1126.16	stat_player	ttl	8	73.142860
+1126.16	weap_shotcount	Enforcer	8	77
+1126.16	weap_hitcount	Enforcer	8	9
+1126.16	weap_damagegiven	Enforcer	8	225
+1126.16	weap_accuracy	Enforcer	8	11.688312
+1126.16	weap_shotcount	Minigun	8	84
+1126.16	weap_hitcount	Minigun	8	7
+1126.16	weap_damagegiven	Minigun	8	126
+1126.16	weap_accuracy	Minigun	8	8.333334
+1126.16	weap_shotcount	Flak Cannon	8	4
+1126.16	weap_hitcount	Flak Cannon	8	10
+1126.16	weap_damagegiven	Flak Cannon	8	240
+1126.16	weap_accuracy	Flak Cannon	8	250.000000
+1126.16	weap_shotcount	Rocket Launcher	8	37
+1126.16	weap_hitcount	Rocket Launcher	8	14
+1126.16	weap_damagegiven	Rocket Launcher	8	771
+1126.16	weap_accuracy	Rocket Launcher	8	37.837837
+1126.16	weap_shotcount	Pulse Gun	8	0
+1126.16	weap_hitcount	Pulse Gun	8	4
+1126.16	weap_damagegiven	Pulse Gun	8	120
+1126.16	weap_accuracy	Pulse Gun	8	0.000000
+1126.16	weap_shotcount	GES Bio Rifle	8	21
+1126.16	weap_hitcount	GES Bio Rifle	8	4
+1126.16	weap_damagegiven	GES Bio Rifle	8	149
+1126.16	weap_accuracy	GES Bio Rifle	8	19.047619
+1126.16	weap_shotcount	Shock Rifle	8	5
+1126.16	weap_hitcount	Shock Rifle	8	0
+1126.16	weap_damagegiven	Shock Rifle	8	0
+1126.16	weap_accuracy	Shock Rifle	8	0.000000
+1126.16	weap_shotcount	Sniper Rifle	8	7
+1126.16	weap_hitcount	Sniper Rifle	8	2
+1126.16	weap_damagegiven	Sniper Rifle	8	100
+1126.16	weap_accuracy	Sniper Rifle	8	28.571430
