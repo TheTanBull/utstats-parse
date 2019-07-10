@@ -132,13 +132,20 @@ rl.on('line', function(line) {
 
 rl.on('close', function() {
   // do something on finish here
-  var longest_life;
-  var last_life;
-  player_stats.foreach((player) => {
-    player.death_times.foreach((time) => {
-      
-    })
-  })
+  var longest_life = 0;
+  var longest_life_player;
+  for(player in player_stats){
+    var last_life = players_obj[player].connect;
+    console.log("setting " + players_obj[player].name + "'s starting time to " + players_obj[player].connect)
+    player_stats[player].death_times.forEach((time) => {
+      if(longest_life < time[0] - last_life){
+        longest_life = time[0] - last_life;
+        longest_life_player = player;
+        console.log(players_obj[player].name + longest_life);
+      }
+      last_life = time[0];
+    });
+  }
 
   // Add match_info object to the match object
   match_obj.info = match_info;
@@ -152,5 +159,5 @@ rl.on('close', function() {
   match_obj.kills = match_kills;
   // Add player stats obj to the match object
   match_obj.player_stats = player_stats;
-  console.log(match_obj.player_stats[9].weapon_stats['flak cannon']);
+  // console.log(match_obj.player_stats);
 });
