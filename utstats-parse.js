@@ -9,12 +9,13 @@ var match_obj = {};
 var match_info = {};
 var match_map = {};
 var match_game = {};
-var match_kills = 0;
-var players_arr = [];
+var match_kills = [];
+var kill_count = 0;
+var players_obj = {};
 
 rl.on('line', function(line) {
-  // process line here
-  // Handles Player Names
+  // process current line
+
   let sline = line.toLowerCase().split('\t');
 
   // Capture Match Info
@@ -33,22 +34,31 @@ rl.on('line', function(line) {
   }
   
   
-
+  // Handles Player Names
   if(sline[1] === 'player' && sline[2] == 'rename'){
-    console.log(sline[3]);
-    players_arr.push({name: sline[3],pmi: sline[4]}); // [Name, Player_Match_ID]
+    // console.log(sline[3]);
+    players_obj[sline[4]] = sline[3]; // Key[Player_Match_ID]: Value[Player_Name]
   }
-  // Handles Kill Information
-  // if(line.split('\t')[1].includes('kill')){
-  //     console.log(line);
-  //     match_kills++;
-  // }
+  
+  // Capture Kill Information
+  if(sline[1] === 'kill'){
+    kill_count++;
+    let kills_obj = {};
+    kills_obj.kill_number = kill_count;
+    kills_obj.time = sline[0];
+    kills_obj.killer = players_obj[sline[2]];
+    kills_obj.killer_weapon = sline[3];
+    kills_obj.dead = players_obj[sline[4]];
+    kills_obj.dead_weapon = sline[5];
+    
+    
+    match_kills.push(kills_obj);
+  }
+  
 });
 
 rl.on('close', function() {
   // do something on finish here
-  console.log(match_kills);
-  console.log(players_arr);
 
   // Add match_info object to the match object
   match_obj.info = match_info;
@@ -57,6 +67,8 @@ rl.on('close', function() {
   // Add match_game to the match object
   match_obj.game = match_game;
   // Add match players array to the match object
-  match_obj.players = players_arr;
+  match_obj.players = players_obj;
+  // Add match kills array to the match object
+  match_obj.kills = match_kills;
   console.log(match_obj);
 });
