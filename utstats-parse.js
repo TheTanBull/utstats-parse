@@ -62,49 +62,67 @@ rl.on('line', function(line) {
     match_kills.push(kills_obj);
     //Add deaths to player stats
     if(player_stats[sline[4]]){
-      if(player_stats[sline[4]].deaths){
-        player_stats[sline[4]].deaths.push([sline[0]]);
+      if(player_stats[sline[4]].death_times){
+        player_stats[sline[4]].death_times.push([sline[0]]);
       }else{
-        player_stats[sline[4]].deaths = [];
-        player_stats[sline[4]].deaths.push([sline[0]]);
+        player_stats[sline[4]].death_times = [];
+        player_stats[sline[4]].death_times.push([sline[0]]);
       }
     } else{
       player_stats[sline[4]] = {};
-      player_stats[sline[4]].deaths = [];
-      player_stats[sline[4]].deaths.push([sline[0]]);
+      player_stats[sline[4]].death_times = [];
+      player_stats[sline[4]].death_times.push([sline[0]]);
     }
     // Add kills to player stats
     if(player_stats[sline[2]]){
-      if(player_stats[sline[2]].kills){
-        player_stats[sline[2]].kills.push([sline[0]]);
+      if(player_stats[sline[2]].kill_times){
+        player_stats[sline[2]].kill_times.push([sline[0]]);
       }else{
-        player_stats[sline[2]].kills = [];
-        player_stats[sline[2]].kills.push([sline[0]]);
+        player_stats[sline[2]].kill_times = [];
+        player_stats[sline[2]].kill_times.push([sline[0]]);
       }
     } else{
       player_stats[sline[2]] = {};
-      player_stats[sline[2]].kills = [];
-      player_stats[sline[2]].kills.push([sline[0]]);
+      player_stats[sline[2]].kill_times = [];
+      player_stats[sline[2]].kill_times.push([sline[0]]);
     }
     headshot = false;
   }
   // Count Suicides and add to deaths
   if(sline[1] === 'suicide'){
     if(player_stats[sline[2]]){
-      if(player_stats[sline[2]].deaths){
-        player_stats[sline[2]].deaths.push([sline[0], 'suicide']);
+      if(player_stats[sline[2]].death_times){
+        player_stats[sline[2]].death_times.push([sline[0], 'suicide']);
       }else{
-        player_stats[sline[2]].deaths = [];
-        player_stats[sline[2]].deaths.push([sline[0], 'suicide']);
+        player_stats[sline[2]].death_times = [];
+        player_stats[sline[2]].death_times.push([sline[0], 'suicide']);
       }
     } else{
       player_stats[sline[2]] = {};
-      player_stats[sline[2]].deaths = [];
-      player_stats[sline[2]].deaths.push([sline[0], 'suicide']);
+      player_stats[sline[2]].death_times = [];
+      player_stats[sline[2]].death_times.push([sline[0], 'suicide']);
     }
   }
 
-  
+  // Adds ending player stats 
+  if(sline[1] === 'stat_player'){
+    player_stats[sline[3]][sline[2]] = sline[4];
+  }
+
+  if(sline[1].includes('weap')){
+    if(player_stats[sline[3]].weapon_stats){
+      if(player_stats[sline[3]].weapon_stats[sline[2]]){
+          player_stats[sline[3]].weapon_stats[sline[2]][sline[1]] = sline[4];
+      }else {
+        player_stats[sline[3]].weapon_stats[sline[2]] = {};
+        player_stats[sline[3]].weapon_stats[sline[2]][sline[1]] = sline[4];
+      }
+    } else {
+      player_stats[sline[3]].weapon_stats = {};
+      player_stats[sline[3]].weapon_stats[sline[2]] = {};
+      player_stats[sline[3]].weapon_stats[sline[2]][sline[1]] = sline[4];
+    }
+  }
   
 });
 
@@ -123,5 +141,5 @@ rl.on('close', function() {
   match_obj.kills = match_kills;
 
   match_obj.player_stats = player_stats;
-  console.log(match_obj.player_stats[0].deaths);
+  console.log(match_obj.player_stats[9].weapon_stats['flak cannon']);
 });
