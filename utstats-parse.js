@@ -12,6 +12,7 @@ var match_game = {};
 var match_kills = [];
 var kill_count = 0;
 var players_obj = {};
+var headshot = false;
 
 rl.on('line', function(line) {
   // process current line
@@ -40,6 +41,10 @@ rl.on('line', function(line) {
     players_obj[sline[4]] = sline[3]; // Key[Player_Match_ID]: Value[Player_Name]
   }
   
+  // Kill was a Headshot
+  if(sline[1] === 'headshot'){
+    headshot = true;
+  }
   // Capture Kill Information
   if(sline[1] === 'kill'){
     kill_count++;
@@ -50,7 +55,7 @@ rl.on('line', function(line) {
     kills_obj.killer_weapon = sline[3];
     kills_obj.dead = players_obj[sline[4]];
     kills_obj.dead_weapon = sline[5];
-    
+    kills_obj.headshot = headshot;
     
     match_kills.push(kills_obj);
   }
