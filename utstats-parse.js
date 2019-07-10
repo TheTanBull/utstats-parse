@@ -39,7 +39,11 @@ rl.on('line', function(line) {
   // Handles Player Names
   if(sline[1] === 'player' && sline[2] == 'rename'){
     // console.log(sline[3]);
-    players_obj[sline[4]] = sline[3]; // Key[Player_Match_ID]: Value[Player_Name]
+    players_obj[sline[4]] = {'name': sline[3]}; // Key[Player_Match_ID]: Value{name}]
+  }
+  // Adds Player Connect Time  
+  if(sline[1] === 'player' && sline[2] == 'connect'){
+    players_obj[sline[4]].connect = sline[0]; // Key[Player_Match_ID]: Value[Player_Name]
   }
   
   // Kill was a Headshot
@@ -53,9 +57,9 @@ rl.on('line', function(line) {
     let kills_obj = {};
     kills_obj.kill_number = kill_count;
     kills_obj.time = sline[0];
-    kills_obj.killer = players_obj[sline[2]];
+    kills_obj.killer = players_obj[sline[2]].name;
     kills_obj.killer_weapon = sline[3];
-    kills_obj.victim = players_obj[sline[4]];
+    kills_obj.victim = players_obj[sline[4]].name;
     kills_obj.victim_weapon = sline[5];
     kills_obj.death_type = sline[6];
     kills_obj.headshot = headshot;
@@ -128,6 +132,13 @@ rl.on('line', function(line) {
 
 rl.on('close', function() {
   // do something on finish here
+  var longest_life;
+  var last_life;
+  player_stats.foreach((player) => {
+    player.death_times.foreach((time) => {
+      
+    })
+  })
 
   // Add match_info object to the match object
   match_obj.info = match_info;
@@ -139,7 +150,7 @@ rl.on('close', function() {
   match_obj.players = players_obj;
   // Add match kills array to the match object
   match_obj.kills = match_kills;
-
+  // Add player stats obj to the match object
   match_obj.player_stats = player_stats;
   console.log(match_obj.player_stats[9].weapon_stats['flak cannon']);
 });
