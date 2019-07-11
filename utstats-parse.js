@@ -2,6 +2,8 @@ var fs = require('fs');
 var readline = require('readline');
 var stream = require('stream');
 
+// Parse Code 
+
 var instream = fs.createReadStream('./logs/Unreal.ngLog.2019.07.09.13.56.14.7777.log');
 var outstream = new stream;
 var rl = readline.createInterface(instream, outstream);
@@ -131,7 +133,7 @@ rl.on('line', function(line) {
 });
 
 rl.on('close', function() {
-  // do something on finish here
+  // calculate longest living player
   var longest_life = 0;
   var longest_life_player;
   for(player in player_stats){
@@ -141,7 +143,7 @@ rl.on('close', function() {
       if(longest_life < time[0] - last_life){
         longest_life = time[0] - last_life;
         longest_life_player = player;
-        console.log(players_obj[player].name + longest_life);
+        // console.log(players_obj[player].name + longest_life);
       }
       last_life = time[0];
     });
@@ -153,11 +155,23 @@ rl.on('close', function() {
   match_obj.map = match_map;
   // Add match_game to the match object
   match_obj.game = match_game;
-  // Add match players array to the match object
+  // Add match (players array to the match object
   match_obj.players = players_obj;
   // Add match kills array to the match object
   match_obj.kills = match_kills;
   // Add player stats obj to the match object
   match_obj.player_stats = player_stats;
-  // console.log(match_obj.player_stats);
+  console.log(match_obj.player_stats);
+
+
+  
+
+
+  // player kills
+  var total_kills = 0;
+  for(player in match_obj.player_stats){
+    console.log(match_obj.players[player].name, player_stats[player].kills)
+    total_kills += parseInt(player_stats[player].kills);
+  }
+  console.log(total_kills)
 });
