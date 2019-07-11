@@ -173,5 +173,5 @@ rl.on('close', function() {
     console.log(match_obj.players[player].name, player_stats[player].kills)
     total_kills += parseInt(player_stats[player].kills);
   }
-  console.log(total_kills)
+  console.log(match_obj)
 });
